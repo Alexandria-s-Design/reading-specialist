@@ -1,0 +1,288 @@
+PAGE: resources
+Extracted text blocks: 142
+============================================================
+
+[1] {"fleetConfig":{"fleetName":"thunderbolt-renderer-gradual","type":"Rollout","code":1},"mode":{"qa":false,"enableTestApi":false,"debug":false,"ssrIndicator":false,"ssrOnly":false,"siteAssetsFallback":"enable","versionIndicator":false},"componentsLibrariesTopology":[{"artifactId":"editor-elements","namespace":"wixui","url":"https:\/\/static.parastorage.com\/services\/editor-elements\/1.14996.0"},{"artifactId":"editor-elements","namespace":"dsgnsys","url":"https:\/\/static.parastorage.com\/services\/editor-elements\/1.14996.0"}],"siteFeaturesConfigs":{"sessionManager":{"isRunningInDifferentSiteContext":false}},"language":{"userLanguage":"en"},"siteAssets":{"clientTopology":{"mediaRootUrl":"https:\/\/static.wixstatic.com","scriptsUrl":"static.parastorage.com","staticMediaUrl":"https:\/\/static.wixstatic.com\/media","moduleRepoUrl":"https:\/\/static.parastorage.com\/unpkg","fileRepoUrl":"https:\/\/static.parastorage.com\/services","viewerAppsUrl":"https:\/\/viewer-apps.parastorage.com","viewerAssetsUrl":"https:\/\/viewer-assets.parastorage.com","siteAssetsUrl":"https:\/\/siteassets.parastorage.com","pageJsonServerUrls":["https:\/\/pages.parastorage.com","https:\/\/staticorigin.wixstatic.com","https:\/\/www.janrichardsonreading.com","https:\/\/fallback.wix.com\/wix-html-editor-pages-webapp\/page"],"pathOfTBModulesInFileRepoForFallback":"wix-thunderbolt\/dist\/"}},"siteFeatures":["accessibilityBrowserZoom","appMonitoring","assetsLoader","businessLogger","captcha","clickHandlerRegistrar","commonConfig","componentsLoader","componentsRegistry","consentPolicy","contentReflow","cyclicTabbing","domSelectors","domStore","environmentWixCodeSdk","environment","locationWixCodeSdk","mpaNavigation","navigationManager","navigationPhases","ooi","pages","panorama","renderer","reporter","router","scrollRestoration","seoWixCodeSdk","seo","sessionManager","siteMembersWixCodeSdk","siteMembers","siteScrollBlocker","siteWixCodeSdk","speculationRules","ssrCache","stores","structureApi","thunderboltInitializer","tpaCommons","translations","usedPlatformApis","warmupData","windowMessageRegistrar","windowWixCodeSdk","wixCustomElementComponent","wixEmbedsApi","componentsReact","platform"],"site":{"externalBaseUrl":"https:\/\/www.janrichardsonreading.com","isSEO":false},"media":{"staticMediaUrl":"https:\/\/static.wixstatic.com\/media","mediaRootUrl":"https:\/\/static.wixstatic.com\/","staticVideoUrl":"https:\/\/video.wixstatic.com\/"},"requestUrl":"https:\/\/www.janrichardsonreading.com\/copy-of-sample-meal-plan","rollout":{"siteAssetsVersionsRollout":false,"isDACRollout":0,"isTBRollout":true},"commonConfig":{"brand":"wix","host":"VIEWER","bsi":"","consentPolicy":{},"consentPolicyHeader":{},"siteRevision":"2458","renderingFlow":"NONE","language":"en","locale":"en-us"},"interactionSampleRatio":0.01,"accessTokensUrl":"https:\/\/www.janrichardsonreading.com\/_api\/v1\/access-tokens","experiments":{"specs.thunderbolt.hardenFetchAndXHR":true,"specs.thunderbolt.securityExperiments":true,"specs.thunderbolt.browserCacheReload":true,"specs.thunderbolt.addIdAsClassName":true,"specs.thunderbolt.usePrerenderUntilScript":true,"specs.thunderbolt.adjustForPrerenderActivation":true}}
+
+[2] 
+
+[3] RESOURCES | jrreading
+
+[4] {"prefetch":[{"tag":"mpa-prefetch-moderate","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":"/copy-of-sample-meal-plan"}}]},"eagerness":"moderate"}]}
+
+[5] @view-transition {navigation: auto;types: OutIn}
+
+[6] Better Reading Instruction
+
+[7] with Dr. Jan Richardson
+
+[8] Guided Reading and Reading Science
+
+[9] Next Steps/Science of Reading
+
+[10] JACK HARTMANN/JAN RICHARDSON
+
+[11] JAN'S PRODUCTS
+
+[12] COMMON CORE STANDARDS
+
+[13] LITERACY CONSULTANTS
+
+[14] SUCCESS STORIES
+
+[15] Bookclubs/Literature Circles
+
+[16] Advanced Bookmarks
+
+[17] Early Bookmarks
+
+[18] Guided Reading vs. Book Clubs: What's the Difference?
+
+[19] Book Study Guides
+
+[20] Next Step Forward In Guided Reading -
+
+[21] Professional Study Guide
+
+[22] Comprehension Scaffolds for Students
+
+[23] 5 Finger Retelling
+
+[24] Cause and Effect Cards
+
+[25] Comprehension Strategies and
+
+[26] Reciprocal Teaching Leader Card
+
+[27] Reciprocal Teaching
+
+[28] Shared Retelling
+
+[29] Testing Strategy Cards
+
+[30] French Resources
+
+[31] Pre A Form French
+
+[32] Early Form Debutant French
+
+[33] Emergent Form French
+
+[34] Transitional Form French
+
+[35] Common Affixes and Word Endings
+
+[36] Easy Prefixes and Suffixes
+
+[37] New Routine for Teaching Sight Words
+
+[38] Soundbox and Analogy Chart Template
+
+[39] Vowel Patterns Cards
+
+[40] Vowel Patterns Chart
+
+[41] Handwriting Paper
+
+[42] Handwriting
+
+[43] Handwriting  Journal K
+
+[44] Personal Word Wall - Intermediate
+
+[45] Personal Word Wall - Primary
+
+[46] The Punctuation Rap
+
+[47] Writing Progress Monitoring Chart
+
+[48] How to ____ Strategy Cards for Teachers
+
+[49] GR Comprehension Scaffolds by W. Hare
+
+[50] How to Teach Cause and Effect Relationships
+
+[51] How to Teach Guided Word Study
+
+[52] How to Teach Making Inferences
+
+[53] How to Teach Poetry Analysis
+
+[54] How to Teach Summarizing in Fiction and Non-Fiction
+
+[55] How to Use Asking Questions to Increase Comprehension
+
+[56] VIP Strategy to Identify Very Important Parts
+
+[57] in Fiction and Non-Fiction
+
+[58] Lesson Plan Templates
+
+[59] Early Lesson Plan
+
+[60] Emergent Lesson Plan
+
+[61] Fluent Lesson Plan
+
+[62] Pre-A Lesson Plan
+
+[63] Transitional Lesson Plan
+
+[64] 15-min Fluent Lesson Plan
+
+[65] Early Reader 15-min Lesson Plan
+
+[66] Emergent Reader 15-min Lesson Plan
+
+[67] Pre-A 15-min Lesson Plan
+
+[68] Transitional/Fluent Reader 15-min Lesson Plan
+
+[69] Observation and Assessment
+
+[70] Comprehension Interview
+
+[71] Fidelity of Implementation Checklist
+
+[72] Fluent Assessment Summary Chart
+
+[73] Fillable Reading Progress Chart
+
+[74] Fillable Word Study Inventory Class Summary Chart
+
+[75] Self-Assessment Guided Reading Rubric for Measuring Change
+
+[76] in the Practice of Classroom Teachers
+
+[77] ABC Book for Tracing ComicSans
+
+[78] Letter Sound Checklist
+
+[79] Progress Charts
+
+[80] Grade 1 Progress Chart
+
+[81] Grade 2 Progress Chart
+
+[82] Grade 3 Progress Chart
+
+[83] Grade 4 Progress Chart
+
+[84] Grade 5 Progress Chart
+
+[85] School Progress Chart
+
+[86] Decoding and Vocabulary Prompts and Scaffolds
+
+[87] Vocabulary Cards
+
+[88] Reading Notebooks
+
+[89] Reading Response Choices - Fiction
+
+[90] Reading Response Choices - Nonfiction
+
+[91] First 20 Days for Reading Workshop
+
+[92] Tips for Managing Guided Reading with Large Class Sizes
+
+[93] Lesson Sample Week 1
+
+[94] Lesson Sample Week 2
+
+[95] Lesson Sample Week 3
+
+[96] Reading Response
+
+[97] Spanish Resources
+
+[98] 2 días_lectura guiada-PreA
+
+[99] 3días.LecturaGuiada Nivel-Emergente
+
+[100] 3 días_LecturaGuiada Nivel-Principiante
+
+[101] Actividades para trabajar con letras
+
+[102] ACTUALIZADO Apéndice A por Nivel (A-J)
+
+[103] Ape?ndice M. Sentimientos y rasgos de personaje
+
+[104] Ape?ndice N. Tarjetas de comprensio?n
+
+[105] Evaluaciones para grupos de lectura guiada
+
+[106] Gui?a verbal para la ensen?anza de formacio?n de letras
+
+[107] LecturaGuiadaTransicional
+
+[108] Palabras de alta frecuencia de Kinder Nivel A1
+
+[109] Palabras de Primer grado G12
+
+[110] Palabras de Primer grado Primero
+
+[111] Retelling Scaffold- Spanish
+
+[112] Segundo Palabras de Segundo
+
+[113] Spanish ABC Tracing Book
+
+[114] Spanish Emergent Lesson Plan
+
+[115] STPCards- Spanish
+
+[116] Tabla de resumen de evaluacio?n nivel EMERGENTE
+
+[117] Table resumen de Evaluacio?n Nivel Principiante
+
+[118] Table resumen de Evaluacio?n Nivel Transicional
+
+[119] Vocabulary Cards- Spanish
+
+[120] {"data":{"site":{"metaSiteId":"02517805-8510-4d76-8cc1-a21d9ba7b354","userId":"7e0b43a3-a9b6-4cde-b80d-700ade165575","siteId":"f5bf71b1-647a-47fe-8f91-c63d0b50b7c4","externalBaseUrl":"https:\/\/www.janrichardsonreading.com","siteRevision":2458,"siteType":"UGC","dc":"uw2-pub-1","isResponsive":false,"editorName":"Unknown","sessionId":"82d7d708-b5f5-4ce1-968a-9e6772bbf57b","isSEO":false,"appNameForBiEvents":"thunderbolt"},"rollout":{"siteAssetsVersionsRollout":false,"isDACRollout":0,"isTBRollout":true},"fleetConfig":{"fleetName":"thunderbolt-renderer-gradual","type":"Rollout","code":1},"requestUrl":"https:\/\/www.janrichardsonreading.com\/copy-of-sample-meal-plan","isInSEO":false,"platformOnSite":true,"adjustForPrerenderActivation":true}}
+
+[121] =0&&T.threshold
+
+[122] (l+=e+t,e+t));if(l
+
+[123] {let n=`${e+C+r}label`;l=Math.max(t.labels[n].width,l)});((e,t,i,n)=>{let{hoverState:a}=t;if("-1"!==a){let{menuItemIds:o}=t,s=o.indexOf(a);if(r(t.hoverState)||a===O){if(!t.realWidths)return;let a=Math.max(n,t.children[-1!==s?e+s:e+O].width),o=Math.max(n,t.children[`${e}dropWrapper`].width),l=(0!==t.moreSubItem.length?t.labels[`${t.moreSubItem[0]}label`].lineHeight:0)+15+t.menuBorderY+t.labelPad+t.menuButtonBorder;t.moreSubItem.forEach(e=>{p(i[e],{minWidth:`${a}px`}),p(i[`${e}label`],{minWidth:"0px",lineHeight:`${l}px`})});let h=r(t.hoverState)?t.hoverState:"__more__",c={width:t.children[e+h].width,left:t.children[e+h].left},d=((e,t,i,r,n)=>{let{width:a,height:o,alignButtons:s,hoverListPosition:l,menuItemContainerExtraPixels:h}=t,c=t.absoluteLeft,d=((e,t,i,r,n,a,o,s,l,h)=>{let c="0px",d="auto",u=a.left,m=a.width;if("left"===t?c="left"===n?0:`${u+e.left}px`:"right"===t?(d="right"===n?0:`${r-u-m-e.right}px`,c="auto"):"left"===n?c=`${u+(m+e.left-i)/2}px`:"right"===n?(c="auto",d=`${(m+e.right-(i+e.width))/2}px`):c=`${e.left+u+(m-(i+e.width))/2}px`,"auto"!==c){let e=o+parseInt(c,10);e+h>l?(c="auto",d=0):c=e
+
+[124] l?0:d),{moreContainerLeft:c,moreContainerRight:d}})(h,s,r,a,l,i,c,c+a,t.bodyClientWidth,n);return{left:d.moreContainerLeft,right:d.moreContainerRight,top:t.needToOpenMenuUp?"auto":`${o}px`,bottom:t.needToOpenMenuUp?`${o}px`:"auto"}})(0,t,c,a,o);p(i[`${e}${C}`],{left:d.left,right:d.right}),p(i[`${e}dropWrapper`],{left:d.left,right:d.right,top:d.top,bottom:d.bottom})}}})(e,t,i,l),t.originalGapBetweenTextAndBtn&&s.forEach(r=>{t.hasOriginalGapData[r]||_(i[`${e}${r}`],{originalGapBetweenTextAndBtn:t.originalGapBetweenTextAndBtn[`${e}${r}`]})}),((e,t,i,r)=>{let{realWidths:n,height:a,menuItemContainerExtraPixels:o}=i,s=0,l=null,h=null,c=i.lineHeight,d=a-o.height;for(let a=0;a
+
+[125] 0&&o[o.length-1])||6!==c[0]&&2!==c[0])){u=0;continue}if(3===c[0]&&(!o||c[1]>o[0]&&c[1]
+
+[126] {"platform":{"ssrPropsUpdates":[],"ssrStyleUpdates":[],"ssrStructureUpdates":[]},"pages":{"compIdToTypeMap":{"comp-kdt3lhpz":"WRichText","masterPage":"MasterPage","SITE_HEADER":"HeaderContainer","SITE_FOOTER":"FooterContainer","PAGES_CONTAINER":"PagesContainer","comp-k8we6k45":"StripColumnsContainer","SITE_PAGES":"PageGroup","comp-k8we6kjx":"Column","BACKGROUND_GROUP":"BackgroundGroup","SCROLL_TO_TOP":"Anchor","SCROLL_TO_BOTTOM":"Anchor","SKIP_TO_CONTENT_BTN":"SkipToContentButton","comp-k8xodqli":"VerticalMenu","comp-kdqj69vc":"WRichText","comp-kdqjg6rz":"WRichText","comp-k8xdo91q":"WRichText","pageBackground_tqrxo":"PageBackground","tqrxo":"Page","comp-l6y4id64":"ClassicSection","comp-l6y4id65":"ClassicSection","comp-l6y4id665":"ClassicSection","comp-k8xdnioc":"StripColumnsContainer","comp-k8xdnis4":"Column","Containertqrxo":"Group","DYNAMIC_STRUCTURE_CONTAINER":"DynamicStructureContainer","site-root":"DivWithChildren","main_MF":"DivWithChildren","tqrxo_wrapper":"PageMountUnmount","tqrxo_wrapper_background":"PageMountUnmount"}},"appsWarmupData":{},"ooi":{"failedInSsr":{}}}
+
+[127] LITERACY TIPS
+
+[128] CONFERENCES/WEBINARS
+
+[129] VIDEO CLIPS
+
+[130] RISE RESOURCES
+
+[131] Remove the POWr logo from the bottom of your form.
+
+[132] Select from an email input, multiple choice, images, phone number, signature, file upload, text, checkbox, dropdown, and more!
+
+[133] The number of different forms you can add to one website.
+
+[134] Increase the number of form submissions you can receive on your form each month.
+
+[135] Select the number of people who receive email alerts every time someone completes your form.
+
+[136] Select your preferred payment provider from PayPal, Stripe (for credit cards) or send intructions for offline payments.
+
+[137] Allow users to upload files to your form, like images or PDFs.
+
+[138] See all of your form responses in your own personal dashboard and export them to CSV.
+
+[139] Show a message, redirect to another page, display submissions publicly or hide the form once somebody completes it.
+
+[140] Design your own customer confirmation email that gets sent automatically after someone completes your form.
+
+[141] Keep your forms short and smart with rules for which parts of your form to show based on a user's previous answers.
+
+[142] Sync all new form responses to Google Sheets in real time.
+

@@ -1,0 +1,1216 @@
+PAGE: literacy_tips
+Extracted text blocks: 606
+============================================================
+
+[1] {"fleetConfig":{"fleetName":"thunderbolt-renderer-gradual","type":"Rollout","code":1},"mode":{"qa":false,"enableTestApi":false,"debug":false,"ssrIndicator":false,"ssrOnly":false,"siteAssetsFallback":"enable","versionIndicator":false},"componentsLibrariesTopology":[{"artifactId":"editor-elements","namespace":"wixui","url":"https:\/\/static.parastorage.com\/services\/editor-elements\/1.14996.0"},{"artifactId":"editor-elements","namespace":"dsgnsys","url":"https:\/\/static.parastorage.com\/services\/editor-elements\/1.14996.0"}],"siteFeaturesConfigs":{"sessionManager":{"isRunningInDifferentSiteContext":false}},"language":{"userLanguage":"en"},"siteAssets":{"clientTopology":{"mediaRootUrl":"https:\/\/static.wixstatic.com","scriptsUrl":"static.parastorage.com","staticMediaUrl":"https:\/\/static.wixstatic.com\/media","moduleRepoUrl":"https:\/\/static.parastorage.com\/unpkg","fileRepoUrl":"https:\/\/static.parastorage.com\/services","viewerAppsUrl":"https:\/\/viewer-apps.parastorage.com","viewerAssetsUrl":"https:\/\/viewer-assets.parastorage.com","siteAssetsUrl":"https:\/\/siteassets.parastorage.com","pageJsonServerUrls":["https:\/\/pages.parastorage.com","https:\/\/staticorigin.wixstatic.com","https:\/\/www.janrichardsonreading.com","https:\/\/fallback.wix.com\/wix-html-editor-pages-webapp\/page"],"pathOfTBModulesInFileRepoForFallback":"wix-thunderbolt\/dist\/"}},"siteFeatures":["accessibilityBrowserZoom","appMonitoring","assetsLoader","businessLogger","captcha","clickHandlerRegistrar","commonConfig","componentsLoader","componentsRegistry","consentPolicy","contentReflow","cyclicTabbing","domSelectors","domStore","environmentWixCodeSdk","environment","locationWixCodeSdk","mpaNavigation","navigationManager","navigationPhases","ooi","pages","panorama","renderer","reporter","router","scrollRestoration","seoWixCodeSdk","seo","sessionManager","siteMembersWixCodeSdk","siteMembers","siteScrollBlocker","siteWixCodeSdk","speculationRules","ssrCache","stores","structureApi","thunderboltInitializer","tpaCommons","translations","usedPlatformApis","warmupData","windowMessageRegistrar","windowWixCodeSdk","wixCustomElementComponent","wixEmbedsApi","componentsReact","platform"],"site":{"externalBaseUrl":"https:\/\/www.janrichardsonreading.com","isSEO":false},"media":{"staticMediaUrl":"https:\/\/static.wixstatic.com\/media","mediaRootUrl":"https:\/\/static.wixstatic.com\/","staticVideoUrl":"https:\/\/video.wixstatic.com\/"},"requestUrl":"https:\/\/www.janrichardsonreading.com\/literacy-tips","rollout":{"siteAssetsVersionsRollout":false,"isDACRollout":0,"isTBRollout":true},"commonConfig":{"brand":"wix","host":"VIEWER","bsi":"","consentPolicy":{},"consentPolicyHeader":{},"siteRevision":"2458","renderingFlow":"NONE","language":"en","locale":"en-us"},"interactionSampleRatio":0.01,"accessTokensUrl":"https:\/\/www.janrichardsonreading.com\/_api\/v1\/access-tokens","experiments":{"specs.thunderbolt.hardenFetchAndXHR":true,"specs.thunderbolt.securityExperiments":true,"specs.thunderbolt.browserCacheReload":true,"specs.thunderbolt.addIdAsClassName":true,"specs.thunderbolt.usePrerenderUntilScript":true,"specs.thunderbolt.adjustForPrerenderActivation":true}}
+
+[2] 
+
+[3] .aVng1S{border-top:var(--lnw,2px) solid rgba(var(--brd,var(--color_15,color_15)),var(--alpha-brd,1));box-sizing:border-box;height:0}
+
+[4] LITERACY TIPS | jrreading
+
+[5] {"prefetch":[{"tag":"mpa-prefetch-moderate","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":"/literacy-tips"}}]},"eagerness":"moderate"}]}
+
+[6] @view-transition {navigation: auto;types: OutIn}
+
+[7] Better Reading Instruction
+
+[8] with Dr. Jan Richardson
+
+[9] Guided Reading and Reading Science
+
+[10] Next Steps/Science of Reading
+
+[11] JACK HARTMANN/JAN RICHARDSON
+
+[12] JAN'S PRODUCTS
+
+[13] COMMON CORE STANDARDS
+
+[14] LITERACY CONSULTANTS
+
+[15] SUCCESS STORIES
+
+[16] Literacy Tip for May 2025
+
+[17] Working With Affixes
+
+[18] by Courtney Richardson, M.Ed.
+
+[19] courtrich7@gmail.com
+
+[20] As my highschooler is preparing to take the SAT test, we’ve been focusing our attention on vocabulary, as it accounts for a large portion of the standardized test. Reviewing these words has reminded me of the importance of morphology (the study of word form). Greek and Latin root words are typically taught around fifth grade, but teachers sometimes struggle to know which affixes to teach and how to teach them. There has been a renewed focus on phonics recently, and teaching affixes is an invaluable component of word study.
+
+[21] Which Affixes to Teach
+
+[22] With so many affixes in the English language (about 135 common prefixes alone), deciding which ones to teach can be overwhelming. In their enlightening article
+
+[23] Morphological Analysis Instruction in the Elementary Grades: Which Morphemes to Teach and How to Teach Them
+
+[24] Manyak, Baumann, and Manyak highlight research by Patrick, Jim, and colleagues in which they offer four guidelines for selecting which morphemes to prioritize for instruction:
+
+[25] 1. Teach affixes that meet a strict definition of prefix or suffix.
+
+[26] 2. Teach affixes that have consistent, concrete meanings.
+
+[27] 3. Teach affixes that have the highest frequency.
+
+[28] 4. When possible, organize affixes into semantic groups or families.
+
+[29] They also include a chart (see Table 1) of 41 suggested affixes to start with, which is very helpful. In Jan’s
+
+[30] The Next Step Forward in Word Study and Phonics
+
+[31] similar charts are available for “Common Prefixes” (Appendix Z, p. 231) and “Common Suffixes” (Appendix AA, p. 232).
+
+[32] How to Teach Affixes
+
+[33] Manyak, Baumann, and Manyak describe methodology in which they “used a consistent six-step sequence of activities to introduce each prefix family and a set of similar activities to introduce the suffix families.” I prefer to use Jan’s “Working With Affixes” methodology on p. 48 of
+
+[34] which has a lot of similarities. She has also created a
+
+[35] Common Affixes and Word Endings
+
+[36] resource that include the same steps, while also providing printable affix cards.
+
+[37] Here are Jan’s steps to teaching affixes:
+
+[38] Teach an Affix
+
+[39] Choose an affix to teach, and write a known word containing that affix on a dry
+
+[40] erase board, underlining the affix. Teach the meaning of the affix.
+
+[41] Make a Big Word
+
+[42] Choose another word on the back of the affix card. Have students remove the letters from their trays. Tell students the word to make. Have them clap the syllables before they make the word. They should say each syllable as they make the word. Then have them break the word at the affix and root. Have them remake the word. Discuss the meaning of the word..
+
+[43] Write a Big Word
+
+[44] Dictate a word with the same affix for students to write. Have them clap the syllables in the word. Tell them to say each part as they write the word, then underline the affix. Dictate another word with the same affix and repeat the steps. Discuss the meaning of the words.
+
+[45] Each day, quickly review the affixes you’ve taught by flashing the affix cards and having students read them until automaticity and fluidity occur.. Students will then transfer word  knowledge to reading and writing.
+
+[46] When to Teach Affixes
+
+[47] Word study, including morphology, is incorporated into Jan’s small group guided reading lesson framework at all levels, including the
+
+[48] Fluent Lesson Plan
+
+[49] . Affixes can also be taught as a mini-lesson in a whole-group format. Having students keep a journal of affixes is also a great way for them to record and reference words they’ve learned.
+
+[50] *Check out a video of Jan teaching “Word Study: Affixes” on the
+
+[51] Literacy Footprints
+
+[52] video resource page. A “Working with Affixes” video is also available on
+
+[53] video resource page (available using the password from p. 8 of the book).
+
+[54] Pioneer Valley Books
+
+[55] Affix Box Set 1
+
+[56] for Transitional and Fluent readers, as well as an
+
+[57] Affix Box Set 2
+
+[58] for readers at level Fluent and above, as well as various other word study tools.
+
+[59] Literacy Tip for April 2025
+
+[60] Why Kids Need Structured Play
+
+[61] By Maly Krajco, kindergarten teacher at Saint Mary’s School, WI
+
+[62] When I first started teaching, I felt guilty letting my students engage in a play station. I thought it was a cop out and took little work to set up. I thought my students should be doing an academic worksheet, but the more I incorporated play, the more my opinion changed. Kids should be playing in the classroom, not just at home or recess. It is crucial to their development, especially now when more time is spent looking at a screen than face to face interaction.
+
+[63] Planning for Structured Play
+
+[64] Structured play isn’t just putting out Legos and letting kids have a go.  It requires thoughtful planning. At the beginning of the year, I teach my kindergarten students how to share and how to navigate squabbles, reminding them to be mindful of others’ feelings, and teaching them to express themselves in a productive way. This can be hard when they don’t know how to do this. These opportunities won’t occur if students sit quietly at the rug or complete a worksheet; they happen during play.
+
+[65] Structured play may be easy to set up, but the way we plan the activity and prepare the students for success, takes work. Consider your children’s strengths and interests when planning a play center. One of my students knows a lot about maps and globes. He is always teaching others about the world when he has a chance. Recently, I set out globes at a station. I was not sure how long students could be entertained by a globe, but fifteen minutes wasn’t long enough. We had previously learned about maps, but I hadn’t introduced the globe. I overheard discussions about the equator, the elevations, the big cities, rivers, and temperatures of places. Many of the facts I heard them discuss were taught to them by their own classmate. The questions that students had afterwards led to more learning as well. Although this is predominantly a play center, children are “reading” print and gaining knowledge, which are foundational skills.
+
+[66] When to Use Structured Play
+
+[67] Play is used during my small group instruction. As I work with one group, the other students explore different stations, some of which are structured play. In the morning, I work with small groups while the other students build fine motor and life skills in the play center. Here are some examples of structured play centers that build math skills:
+
+[68] Play centers for math:
+
+[69] A favorite play center during math is using measuring cups and teaspoons. This activity not only gives them practice with measuring skills, it is also great for fine motor skills. The students put on their aprons and use their utensils to measure out and stir salt, sugar, baking soda, and baking powder. (I am not quite brave enough for flour.) Students are also responsible for cleaning up their stations.
+
+[70] My students love to play Jenga. I write math facts of pieces of tape and put one fact on each Jenga block. When the student pulls out their block, they have to answer the math fact before putting the block on top. I also do something similar with Candy Land and Connect 4. I put a piece of tape on each card or chip. The students have to answer the fact before completing their turn.
+
+[71] Put mini rubber bands in a small tub of water. Students use chopsticks to pull the rubber band out. At the end they count their rubber bands.
+
+[72] In the afternoon while I teach my guided reading groups, the other children are engaged in structured play centers that connect to stories we’ve read.
+
+[73] Play centers for reading:
+
+[74] Felt storyboard - I have a felt board and character figurines for Bible stories. The students love to be the different characters and act out Bible stories they know. They also love to pretend to be people from the Bible.
+
+[75] Drama Station- First, students work together to draw a setting on a big sheet of paper. When they come to a station with an adult (teacher or assistant), they create characters and a simple story line. The children act out their story for the class while I narrate it.
+
+[76] Writing – This is a simple activity that gets kids excited about practicing their writing. I write letters, words, or sentences on a piece of paper and tape it underneath a desk. The students trace the sheet while lying on the ground. It is simple and so fun for the kids.
+
+[77] These activities foster curiosity and encourage social interactions. Yes, they may get a bit loud and excited. You must know your students, what they can handle, how they work together, and how much modeling you will need to provide before you can let them be independent.
+
+[78] Benefits of structured play
+
+[79] Structured play has many benefits. It can build new relationships with other students, give strong personalities an opportunity to spend time together and navigate how to get along. Besides the social and emotional benefits of play, I firmly believe that play aids in building background knowledge, which can grow simply from students communicating and sharing their experiences and various vocabularies with each other. This in turn helps with reading comprehension. This is an area that is lacking for many students. To explicitly teach new vocabulary, I always preview the toys students will be using. For example, when students play with kitchen toys, I discuss terms such as appetizer, entree, spatula, and simmer. When students play with doctor toys, I teach terms such as stethoscope, bandage, wound, and temperature. When race cars are used, terms such as acceleration, engine, and various car parts can be taught. While we discuss these terms, students can share what they already know, and other students will learn from them. As students play, they have the opportunity to use new vocabulary, make discoveries, be curious, and ask questions.
+
+[80] Ideas for Structured Play
+
+[81] As you begin to create your own structured play stations, you might ask your students for their ideas. Here are some ideas to consider:
+
+[82] Focus on students’ interests:
+
+[83] What are the strengths of your students?  Do you have an expert in rocks, dinosaurs, space, or farming? Create a play center that revolves around a specific child’s expertise. Include manipulatives and introduce vocabulary that connects to the topic. Your “expert” might even enjoy leading the center and sharing information with their classmates.
+
+[84] Children are naturally curious about animals. Create a play center that includes plastic or stuffed animals for kids to use as they pretend to be a farmer or veterinarian. Include some medical toys so they can examine and care for the animals.
+
+[85] We recently learned about rocks and planets in science. I created a play center where they can interact with their classmates and use the new vocabulary and content they have learned. These have been popular stations.
+
+[86] Create a geology center using rocks and magnifying glasses. Students can examine the rocks, draw them, and compare different types of rocks. They can try to identify if the rocks are igneous, metamorphic, or sedimentary. They also have a chance to use words we have learned to describe rocks such as smooth, rough, round, and dense.
+
+[87] I have collected a small set of planets on magnets. After I teach them about the solar system, students use the magnets to put the planets in order, name them, make them orbit the sun, and share information about the planets.
+
+[88] Students love to play with farm toys. I have a few children who live on a farm. They have a lot of great information to share with their classmates.
+
+[89] Race cars and dinosaurs are popular topics in my classroom. At first, some girls might not be as excited for this station, but as soon as they start playing, they love it. They can learn the names of dinosaurs, what they eat, and talk about whether the dinosaur is an herbivore or a carnivore.
+
+[90] The toy kitchen is another favorite in my room. The students use play food, a guest check pad to write down orders, and a cash register to run their own restaurant.
+
+[91] Consider both solitary and group activities:
+
+[92] Today’s children live in a world where they are constantly stimulated with visuals and sounds-- silence can be rare. Sometimes they need time to work by themselves and have a break from stimulating technology. The following activities can be done together or individually. They are generally more sensory or fine motor based.
+
+[93] Playdough: Students can make what they would like, or they might have to make numbers, letters, words, shapes, or items that start with a given letter.
+
+[94] : Students get a pan of oobleck with beads in it to play with. Another activity is to put the oobleck in a plastic bag and have children use their finger to write letters or words on the bag.
+
+[95] Marshmallows and toothpicks: These are great for building 2D and 3D shapes as well as their own creations. This is a great activity following a unit on geometric shapes. Add a chart to the center with pictures of shapes for students to recreate.
+
+[96] Pattern blocks: Students can create their own pattern, create a pattern that matches one at the station or practice symmetry. I include sheets of paper that have half of an image on one side and a black line down the middle. They then have to recreate the pattern on the other side so it is symmetrical.
+
+[97] Card towers: Students are given playing cards, scissors, and tape to build a card tower. This is an activity that we did with our second-grade buddies at first. Once the students learned strategies, they were able to do it on their own.
+
+[98] Clothespins and popsicle sticks: Students can build many different creations with these simple items.
+
+[99] Stencils - These are a favorite every year for my students. Once children learn sound-letter relationships, they can write simple stories to go with the stencils.
+
+[100] Think about activities that build life skills
+
+[101] Play can include activities such as cutting food, doing the dishes, and folding laundry. Toy sets such as doll houses, Legos, dinosaurs, animals, castles and dragons are a favorite in my classroom as well. Occasionally, I will put one or two “toys” at a play station – at first, this may throw students for a loop. However, offering fewer choices requires they play together. For example, put only a two puzzles or coloring books at a station. Set up a few magnetic letter trays for students to make words together. The block center could have a chart with some pictorial steps for constructing a joint project.
+
+[102] Include a variety of skills from different disciplines
+
+[103] STEM projects teach students how to communicate, work together, and persevere in problem solving. They also integrate math and science. Consider activities that integrate reading and art or drama. For example, put some props in a center and have children role play a familiar story, nursery rhyme or traditional tale. It is amazing what students can learn by “playing” with each other.
+
+[104] Students need time to play. When I give my students the opportunity to play throughout the day, they get a brain break and are much more focused and engaged in active learning. Students want to learn, it is all how we present it and structure their day.
+
+[105] Literacy Tip for March 2025
+
+[106] Combatting anxiety in the classroom
+
+[107] Emily Richardson, NCC, LPC, CMHC
+
+[108] Many teachers are overwhelmed. They strive to teach students at grade level while juggling demands such as adhering to state and district polices, completing trainings, ensuring their students do well on tests, and implementing Jan Richardson’s excellent reading techniques. They work tirelessly to provide students opportunities to learn, grow, and succeed, and are often interrupted in academic lessons to handle students’ mental health issues. Many teachers feel pressure to instantly handle meltdowns and emotional dysregulation while successfully completing the lessons.
+
+[109] Many teachers are given SEL lesson plans and are expected to provide a social/emotional space for kids to explore feelings. These lessons may help educate, or at the very least alleviate dysregulation in classrooms, but sometimes these lessons just add to the mounting list of things teachers must do. At some point, this overwhelming list may become a chore, possibly resulting in burnout and anxiety. The
+
+[110] Pew Research Center recently surveyed 2,531 U.S. public school K-12 teachers
+
+[111] and found that 77% of teachers said their job was frequently stressful and 68% said it was overwhelming. Something needs to change.
+
+[112] As a counselor in elementary schools over the last ten years, I watched teachers give selflessly to ensure their classroom was equipped with everything needed to promote a healthy and positive educational experience. I listened to teachers vent frustrations over negatively handled student situations, lack of resources, daily student meltdowns, and fruitless conversations with parents. I have empathized, strategized and helped them implement small changes to ensure a calmer and more positive classroom. Some strategies we tried worked really well, and some did not. Here are a few discoveries.
+
+[113] 1. Teachers are role models.
+
+[114] Students are constantly watching and listening closely. They are sponges soaking up every word and facial nuance. If teachers display upbeat, positive behavior and speak encouraging words, most students will respond in kind feeding off the positive energy. If teachers display irritability, some students will feed off the negative energy and act defensively, possibly causing disruption in the classroom. We all know these kinds of days happen, none of us are perfect, but I encourage to take a minute and assess what kind of model is displayed to your students?
+
+[115] Engage in self-care!
+
+[116] The first grade teachers at my previous school were the most relaxed and in control of themselves and their classroom. They ate lunch together, made silly videos, and goofed off after school. They used humor to strengthen their relationships and ground themselves in positivity. I found myself smiling while walking toward their classroom hallway after school anticipating what antics I would encounter. Other teachers engaged in outside activities -- they coached t-ball, cheerleading, or soccer, still others found enjoyment in activities with family and friends. Find joyful, fulfilling and engaging activities.
+
+[117] 2. Teachers rely on positive routines.
+
+[118] Positive and calm teachers with effective routines are more apt to reside over a calm and positive classroom.  Take a minute and assess classroom routines. Which routines run smoothly, and which routines need tweaking to be more effective? Remember every class is different. Even if the routine worked perfectly last year, it may need to be tweaked this year.
+
+[119] Begin each day in a positive way
+
+[120] . The teachers that rarely called to utilize my services would often start the day with either an upbeat or calming song depending on what atmosphere they wanted. Some teachers would then ask each student a question about their night. Whatever the question or answer, the teacher would find a way to encourage the student, and without fail, the student would smile and go about their morning routine in a calming manner. Depending on the progression of the day, these teachers may play the song again after lunch to reset the classroom mood. Here is a
+
+[121] example.
+
+[122] Other teachers had a classroom saying displayed on the board that was repeated first thing every morning. This routine was found to work more effectively with older students. Students relied on this verbal encouragement. Often when I would ask them how their day was going, they would repeat their classroom saying with a smile. These sayings were usually encouraging, humorous or focused on personal goals to bolster self-esteem and positivity. Here are a few
+
+[123] 3. Teachers incorporate calming techniques daily.
+
+[124] Teachers found certain subjects and activities stressful to some students and would incorporate calming techniques into daily instruction to help regulate emotions. These calming techniques, when practiced daily, significantly reduced the amount of anxiety in the classroom and only took a few minutes. Here are calming techniques teachers have implemented with positive results: box breathing with eyes closed; neck, shoulder and arm stretches before lessons or activities; and butterfly hugs while thinking of a calming place with eyes closed (more effective with younger students).
+
+[125] Teachers may incorporate these ideas and still struggle, but to quote the old counseling proverb, “trust the process.” Teachers who engage in self care, strive to ensure they have positive and effective routines, and take time to help students regulate daily, will see small changes that will eventually make a huge impact.
+
+[126] Literacy Tip for February 2025
+
+[127] Faster Doesn't Mean Better
+
+[128] What is Fluency?
+
+[129] Per HFL Education’s (in collaboration with the Education Endowment Foundation) 2022 learning tool entitled
+
+[130] Reading Fluency Misconceptions
+
+[131] , “Reading fluency can be defined as reading with accuracy (reading words correctly), automaticity (reading words at an appropriate speed without great effort) and prosody (appropriate stress and intonation).” A misconception exists that good readers are fast readers, and that reading with automaticity ensures comprehension. Let’s explore these myths a bit further.
+
+[132] infographic highlights eight myths of reading fluency, but I want to focus on the first two, which I perceive to be perhaps the biggest offenders.
+
+[133] Automaticity=Comprehension
+
+[134] . Many teachers assume that if a student can read quickly and accurately, they are absorbing what they have read. This is not always true. I’m sure you, like me, have had the experience of reading a whole paragraph only to realize you don’t know what you just read. Even after we’ve trained our brains to rapidly decode words, we still have to remain engaged with the text if we are to make meaning of it.
+
+[135] No matter where you land on the literacy instruction debate, most researchers agree that word recognition (in combination with language comprehension) contributes to comprehension. As the 2000
+
+[136] National Reading Panel
+
+[137] points out, once automatic decoding occurs regularly, “the cognitive demands for word recognition are so small while the word recognition process is occurring, there are sufficient cognitive resources available for grouping the words into syntactic units and for understanding or interpreting the text. The fluent reader is one who can perform multiple tasks—such as word recognition and comprehension—at the same time.” So, automaticity allows the reader to redirect their cognitive energy from decoding to deciphering meaning. Let’s just be careful not to assume that automatic reading guarantees understanding.
+
+[138] . I am not a fast reader. I’m a good reader- have been since kindergarten- but I’ve never been fast. I’m a visual learner, so I like to pause and picture what I’m reading. I like to re-read to reflect on what I just read. I like to break to look up words I don’t know. (Yes, even fluent adult readers encounter new vocabulary!) Note that the definition of “automaticity” given above is that words are read at an “appropriate” speed. Yet, many reading assessments are meant to be timed in order to calculate a student’s words-per-minute (WPM) rate.
+
+[139] The Next Step Forward in Guided Reading
+
+[140] , Jan cautions teachers of early readers, “Look for phrasing and expression, but don’t expect rapid reading at early text levels. And please don’t time the reader! When a child encounters new words and initiates strategic actions (which is a good thing), it will take time. Early readers should slow down and problem-solve, not mumble through unknown words to beat the clock” (Richardson, 2019, p. 110). Of course, we do expect advanced readers to read faster than novice readers, and WPM is an indicator of that ability.
+
+[141] Just this week, my 10th grader reported to me that she had taken the initiative to test her reading speed and was excited to share that she scored well beyond the WPM benchmark for a 12th grader. Of course I congratulated her on the achievement while also letting her know that I’m more concerned that she understands what she reads more than how fast she reads it.
+
+[142] My 7th grader, on the other hand, is required to use a digital reading program that encourages fluency by compelling students to read faster through the use of a “guided window” that limits the amount of visible text and forces their eyes to move quickly across the window in order to keep up. He finds the method stressful and often loses comprehension as his cognitive energy is focused on speed. Ultimately, reading has two primary purposes: to inform or to entertain. When it becomes a chore, the enjoyment is lost. We can encourage fluency without hyperfocusing on speed.
+
+[143] How to Increase Fluency
+
+[144] We’ve talked about a couple of fluency fallacies, but that doesn’t mean we should abandon attempts to bolster fluent reading. While the
+
+[145] tool points out that specific strategies taken in isolation will not increase fluency, some of these practices, when used in combination with others, can encourage effortless reading. For example, teacher-led read-alouds or shared readings are wonderful tools, but aren’t a stand-alone method for increasing fluency. Likewise, independent reading, especially using a variety of texts, can contribute to fluency, but needs to be paired with other supports. For more details on how to strengthen fluency, check out the
+
+[146] Literacy Tip for June 2024
+
+[147] Literacy Tip for January 2025
+
+[148] The Indispensable Reading Assessment: Beyond MSV
+
+[149] Recent criticism of running records centers around use of the MSV (meaning-structure-visual) or “three-cueing system” to analyze errors on the assessment. (Check out Reading Recovery’s article
+
+[150] Understanding MSV: The Types of Information Available to Readers
+
+[151] for more explanation.) I’m not going to delve into the debate on this issue, though I would direct your attention to an enlightening article by Jeffery L. Williams,
+
+[152] Getting History Right: The Tale of Three-Cueing
+
+[153] Rather, I would argue that a running record is still a useful, even invaluable tool, apart from a cueing system.
+
+[154] A running record can be administered and evaluated without the use of MSV analysis, and it will still provide an illuminating baseline for a student’s current abilities and serve as data to inform instruction. Coupled with a comprehension assessment, these tools will give you an idea of where your students are struggling and how to help them progress. I’m going to highlight what a reading assessment should look like during each phase of reading.
+
+[155] Emergent Level / Ehri’s Partial Alphabetic Phase
+
+[156] In addition to assessing letter-sound knowledge, reviewing a dictated sentence, and sight word spellings, an individual running record with a brief retelling should be administered. For a benchmark assessment, the student should read an unfamiliar text, as you take notes on their general strengths and errors. Then, you should ask the student to tell you what they read. The retell will be brief and limited at this stage.
+
+[157] Early Level / Ehri’s Full Alphabetic Phase
+
+[158] Along with a spelling assessment, a reading conference consisting of a running record and an oral retelling should be administered. Jan states, “While running records are often taken to assess the text difficulty and to record reading progress, their primary purpose is to guide instruction. Early readers make errors, and the errors tell you how the student is processing text” (The Next Step Forward in Guided Reading, 2019, p. 108). The retelling at this level should be a bit more involved, with students providing an overview of and discussion about what they read.
+
+[159] Transitional Level / Ehri’s Full Alphabetic Phas
+
+[160] As well as a Word Knowledge Inventory (see Appendix J, p. 324 in Jan’s yellow book), a reading conference consisting of a running record (choose a text that’s about 100 words), retelling, and comprehension conversation should be completed. Jan states, “The running record will provide insights into the student’s word-solving actions and give you an opportunity to observe other reading behaviors such as intonation, phrasing, monitoring for meaning, and self-correcting” (The Next Step Forward in Guided Reading, 2019, p. 163). Be sure to note non-verbal clues such as facial expressions or extra comments the student makes when they read. Initiate an oral retelling by asking the student to simply “Tell me what you read.” After that, have a short conversation with the student by asking them questions that draw out the main idea, key details, inferences, and vocabulary strategies.
+
+[161] Fluent Level / Ehri’s Consolidated Alphabetic Phase
+
+[162] Along with the Word Knowledge Inventory, complete a reading conference with a comprehension interview. Decoding will not be the focus of the assessment at this level, whereas comprehension will be the primary focal point. Text level is also more fluid in this phase. After reading a few paragraphs, prompt the student to discuss the text with open-ended questions such as “Tell me more” or “What else happened?” Comprehension interviews for Narrative and Informational texts are available on pages 223-226 of Jan’s yellow book.
+
+[163] Points to Consider
+
+[164] Here are some questions to ask yourself when analyzing a reading assessment at any level:
+
+[165] Does the student problem-solve unfamiliar words?
+
+[166] Is the student reading for meaning, thinking about the story?
+
+[167] Does the student notice when they make mistakes, and do they correct their mistakes?
+
+[168] Are there patterns in the student’s errors?
+
+[169] Is the student reading with fluency?
+
+[170] Can the student retell the story? *Some accuracy at lower levels; higher at upper levels
+
+[171] Is the student demonstrating understanding of the text (making inferences, drawing conclusions)? *At higher reading levels
+
+[172] Don’t make the mistake of bypassing reading assessments (or omitting the running record portion of the evaluation) in order to avoid the three-cueing controversy. In addition to revealing a student’s approximate reading level, reading assessments are indispensable instruments for informing instruction!
+
+[173] Literacy Tip for December
+
+[174] Building Comprehension With Primary Students Using Read-Alouds
+
+[175] Some teachers view reading aloud as an insignificant or even dispensable part of their school day. On the contrary, it is an invaluable and underutilized activity. When executed efficiently, it can be an excellent tool for building comprehension.
+
+[176] Some teachers may believe that primary students are too young to learn comprehension strategies, but read-aloud sessions provide the perfect opportunity for students to actively engage with the text and practice deep thinking and discussion. In his blog “
+
+[177] The Spirit is Willingham, but the Flesch is Weak
+
+[178] ,” Tim Shanahan writes, “Strategy instruction can be effective at improving reading comprehension scores at a variety of grade levels, including the primary grades. This surprised me, too. I was pretty sure that comprehension strategies made sense with older students, but not so much with younger ones. That’s not what the research has found, however.” (2016)
+
+[179] Since reading aloud is most common in the primary grades, and since most students in that range are processing texts at a literal rather than inferential level, I’m going to highlight a few of my favorite retelling strategies to try with these students.
+
+[180] These strategies are meant to be modeled in a whole-group setting during a read aloud and then explicitly taught in small groups, using texts children can read. They also pair beautifully with writing sessions to extend comprehension. All of these strategies can be found in chapter seven of Jan’s yellow book
+
+[181] (The Next Step Forward in Guided Reading, 2019)
+
+[182] Module 2, p. 259
+
+[183] Stop-Think-Paraphrase is probably my favorite strategy due to its simplicity and effectiveness. With this technique, the teacher models reading a page of text, then pausing to cover the text with their hand and paraphrase what was just read. STP can be used with both fiction and nonfiction texts. Teaching students to reflect while rewording forces them to recall and consider what they just read. After modeling the strategy, the teacher should have students practice retelling the next page with a partner.
+
+[184] After learning the STP strategy in a whole-group setting, students should be given opportunities to practice it in their small-group guided reading sessions. According to Shanahan, “Strategy instruction is effective when the instruction is concentrated. In all of the studies, students were given daily ongoing instruction of and practice with strategies.” With time, the strategy becomes ingrained so that students naturally pause and paraphrase when reading independently.
+
+[185] For younger students, in-text illustrations may be used to support recall. For older students, teachers may ask them to jot down key words or short paraphrases on a sticky note. Their ideas can later be incorporated into their writing. During a whole-group session, the teacher may use an interactive writing lesson to model who to incorporate keywords and phrases into a written retelling.
+
+[186] Module 3, p.260
+
+[187] Another easy and effective strategy is to have students retell what happened at the Beginning-Middle-End of a story. B-M-E works best with fiction texts since they are often written with a sequential structure. This technique, like the STP strategy, provides opportunities for students to pause and reflect while they listen to a story, rather than attempting to process it in its entirety.
+
+[188] Before reading, the teacher should pre-mark pausing points for the beginning and middle of the text. During the read-aloud, the teacher pauses and asks students to recall and summarize what happened at the beginning then middle of the story, jotting students’ thoughts on a B-M-E anchor chart. Students can discuss the story’s ending with a partner before sharing with the group and contributing to the anchor chart. The teacher may also have students use the chart to practice retelling the entire story with a partner.
+
+[189] During guided reading, the teacher may insert sticky notes at predetermined beginning, middle, and end stopping points for students to jot their reflections as they read. Lower students may draw pictures as their reflections. For example, if the teacher asks the students to consider how a character’s feelings changed throughout the story, they could draw simple faces to indicate the feelings at the B-M-E points.
+
+[190] The B-M-E strategy lends itself well to a teacher-led interactive writing session, or to independent writing by students. Students can use the whole-group anchor chart or their personal sticky notes for reference during writing.
+
+[191] 5 Finger Retell
+
+[192] Module 4, p. 261
+
+[193] The Five-Finger Retell strategy is a great visual way to teach retelling. The five fingers represent: characters, setting, problem, events, ending. I love that “events” is included as a story element, so that students are given the opportunity to build a bridge between the problem and solution, thereby deepening comprehension. This strategy should be used with a fiction text, preferably a familiar one when first introducing the concept.
+
+[194] As the teachers read a story to the group, they model using the five fingers to discuss the story elements. As students recall and share the parts of the story, the teacher adds key words or simple pictures to an anchor chart. (The five story elements may be displayed as a hand illustration or written in a chart format.) Students can then practice retelling the whole story with a partner, using their own fingers and the anchor chart for reference.
+
+[195] After modeling the Five-Finger-Retell whole-group, students can practice in their guided reading groups as well. Students can also write about the five story elements during interactive, guided, or independent writing times as well.
+
+[196] Teachers should avoid anchoring themselves to one comprehension strategy as this can become boring and ineffective for students. Rather, it is best to train them to use a variety of strategies. Shanahan states, “The research reviews show that the teaching of multiple strategies, either singly in sequence or altogether, is beneficial—with stronger results than from single strategies. Multiple strategy teaching may be better because of the possibility that different strategies provide students with different supports (one strategy might help readers to think about one aspect of the text, another might foster some additional insights or analysis). Teach multiple strategies.”
+
+[197] Two of my favorite resources for interactive read-alouds are
+
+[198] Maria Walther’s book
+
+[199] “The Ramped Up Read-Aloud,”
+
+[200] Literacy Footprints interactive reading and writing collections
+
+[201] Not only are read-alouds fun for students and a great way to build fluency, they are also a perfect yet underutilized way to build comprehension. Children, especially in the primary grades, should be read to every day, ideally multiple times a day. Don’t be tempted to skip reading aloud to your students. Instead, use the time to engage them and to build comprehension bridges!
+
+[202] Literacy Tip for November
+
+[203] Right Way to Write
+
+[204] Just as emphatically as educators would attest to the importance of writing, are they likely to agree on the challenges that can come with trying to teach it. In his Education Weekly article
+
+[205] “How Does Writing Fit Into the ‘Science of Reading?”
+
+[206] Stephen Sawchuk states, “Research suggests that teaching students to write in an integrated fashion with reading is not only efficient, it’s effective” (2023). He stresses the importance of incorporating writing throughout students’ days and across content areas. This concept may seem daunting, but there are many ways to work writing into your class instruction.
+
+[207] Six Approaches to Writing
+
+[208] Sometimes teachers aren’t sure where to begin with writing, or they think they can only provide quality writing instruction in lengthy, concentrated blocks of time. They may believe there is only one “right” way to write, but there are actually many methods for teaching writing. I’d like to highlight six of the most effective and efficient strategies to use in the primary grades. Note the decrease in teacher scaffolding as we move through the various approaches.
+
+[209] Modeled Writing
+
+[210] The teacher demonstrates writing (on chart paper or a smart board) as students observe. Instruction is done whole-group and takes about 10-15 minutes. The teacher creates the message and controls the pen. A morning message is a good example of a modeled writing opportunity.
+
+[211] The teacher controls the pen and guides the conversation, while students contribute ideas for the message. Students may also provide input on spelling and print concepts. Instruction is done whole-group for about 10-15 minutes. I sometimes like to incorporate directed drawings during shared writing. I often model the writing and drawing under the doc camera as students contribute to the message.
+
+[212] Interactive Writing
+
+[213] The teacher and students share the pen. The message can be dictated or negotiated with students. The teacher writes challenging or known text, while students take turns writing letters and words. The teacher explicitly teaches print concepts, phonics, spelling patterns, and high-frequency words. Instruction can be done whole or small-group for about 10-15 minutes.
+
+[214] The teacher gives explicit instruction as students practice independently. This may be explicitly taught with a curriculum, but should also be incorporated into all writing instruction. The teacher should use consistent letter formation cues (verbal pathways) and provide an alphabet chart for reference. Instruction is done whole and small-group for about 10 minutes.
+
+[215] The students control the pen as the teacher provides guidance. The teacher provides the purpose for writing and guides the construction of the message. The teacher may dictate some sentences or provide a sentence frame until students are able to construct sentences independently. This instruction is incorporated as part of a guided reading lesson, on day two or three, and writing is done in response to reading. Instruction is done small-group for about 10 minutes (or up to 20 for older students).
+
+[216] Independent Writing
+
+[217] The students do the writing as the teacher circulates and conferences one-on-one with them. Students write with minimal support from the teacher, but the teacher provides check-ins for feedback. This method is typically used in a Writer’s Workshop block. If needed, the teacher or aid could pull a few struggling students to work in a group if needed and if time allows. Instruction is done whole-group for about 10-20 minutes (or longer with older students).
+
+[218] Writer’s Workshop Schedule
+
+[219] Here is a sample Writer’s Workshop schedule for a 30-45 minute block:
+
+[220] 10-15 minutes                 Whole-Group Mini-Lesson / Interactive or Modeled Writing
+
+[221] 5-10 minutes                    Directed Drawing / Shared Writing
+
+[222] 10-20 minutes                 Independent Writing / Conferencing
+
+[223] 5 minutes                          Sharing (Turn & Talk or Share with Class)
+
+[224] Writing instruction doesn’t have to be done all in one block. Some instruction may be part of a morning meeting, with another chunk of time devoted during a designated guided writing or writer’s workshop block. Instruction can and should be incorporated throughout the day and can be embedded within other content areas. For example, students can write in response to a social studies unit or keep a science journal. The best approaches to writing offer a good balance of scaffolding while promoting independence, creating a gradual release of responsibility. There isn’t just one “right” way to teach writing. There are many options and opportunities to fit it into your day.
+
+[225] Literacy Tip for October
+
+[226] The Importance of Vocabulary
+
+[227] ‭ by Courtney Richardson, M.Ed.‬
+
+[228] Overview of Vocabulary Instruction
+
+[229] I recently observed my middle school son as he completed a vocabulary assignment in “Reading Plus,” a digital literacy program utilized by his English Language Arts teacher. Per the website, “Reading Plus is an adaptive literacy program that develops the fluency, comprehension, and motivation students need to be successful readers.” (
+
+[230] https://www.readingplus.com
+
+[231] From what I witnessed, “motivation” was superseded by frustration. I was disappointed to see that, in the vocabulary segment of the program, a word is quickly flashed on the screen, then students are essentially expected to guess its definition without any sort of introduction or context. This is certainly not an ideal method for assessing nor teaching vocabulary.
+
+[232] We know that the National Reading Panel included vocabulary as one of the
+
+[233] five pillars of early literacy
+
+[234] , and I think we can all agree that it is essential for students to develop a rich, extensive vocabulary. Understanding vocabulary within a text contributes to a student’s overall comprehension of the content. With the cultural shift to heavy decoding, it is important to note that without explicit vocabulary instruction, comprehension is at risk. “Even if we spend lots of instructional time teaching decoding and strategic reading, [students] will continue to struggle to comprehend text unless we also support their vocabulary development.” (Wright 2021)
+
+[235] Per Moats & Tolman, teachers should “Aim to teach about 300-400 words per year, or 3-5 words per reading selection…and [provide] at least 10 exposures to each word in listening, speaking, and reading.” (LETRS Volume 2, 2019) And yet, research shows that teachers rarely provide vocabulary instruction that is planned or cognitively challenging for their students. (Wright and Newman 2014)
+
+[236] In order to capture the complete meaning of a text, students must understand the vocabulary presented within that text. We must teach them to stop when they get to unknown words and explore their meanings. When instructing students in a small group literacy environment, we must explicitly introduce new words prior to reading. This practice is a hallmark of Jan’s Guided Reading lessons. (Richardson, 2019) Moats & Tolman agree that “Explicit instruction of Tier 2 vocabulary should occur before students are guided through text reading, as knowledge of individual word meanings significantly increase overall comprehension of language in a text.” (LETRS Volume 2, 2019)
+
+[237] So what does this explicit vocabulary instruction look like in a small group setting?
+
+[238] Vocabulary Introduction during Small Groups
+
+[239] Prior to reading, the teacher should take a few minutes to provide a synopsis of the text, as well as an introduction to vocabulary words they believe students may struggle with. Per Jan’s
+
+[240] , “Two kinds of words need to be discussed before the reading: words too difficult for [students] to decode and words not in their listening vocabulary.” (Richardson, 2019) Particularly for English Language Learners who may lack the background knowledge of their peers, it is important to discuss new words and concepts.
+
+[241] For readers at the emergent and early stages, vocabulary introduction involves drawing attention to the words by either writing them on a dry erase board or having students find them in the text. I like to tell students the page number to turn to, then have them “find and frame” the word with their two index fingers. Pronounce the word for them, then have them repeat it. Discuss the meaning of the word and draw attention to illustrations to support the concept when available. (Always try to select books with strong complimentary illustrations for this reason.)
+
+[242] Providing examples from the text, using the word in a sentence, and making connections to the book are helpful ways to explain the word. For complex or abstract concepts, the idiom “A picture is worth a thousand words” comes to mind. You might consider offering an additional picture or even modeling such concepts with nonverbal actions. For example, when trying to explain the word “shivering” or the concept of being “impatient,” acting out the word can be very effective.
+
+[243] For readers at the transitional and fluent levels, the goal is to introduce words that students will struggle to decode or would not know the definition of
+
+[244] will not be explained within the text. There are four steps incorporated into the vocabulary introduction portion of the lesson plans at these stages.
+
+[245] - Define the word using a short, kid-friendly definition. I like the
+
+[246] Wordsmyth Children’s Dictionary
+
+[247] . Do not ask the students to define the word. This wastes time and may confuse other students.
+
+[248] - Make a connection between the new word and the student’s schema. For example, if the word is “shrieking,” explain that this is something students may have done if they’ve been in a haunted house amusement exhibit.
+
+[249] - Relate the word to the text by telling students where and how it will be used in the book. Point out the accompanying illustration if applicable.
+
+[250] - Turn and talk: Have students use the word in a sentence with a partner. This application helps to activate their understanding of the word.
+
+[251] You should only spend about three or four minutes on the text and vocabulary introduction segment of your lesson, so keep definitions short and sweet. The discussion portion of the lesson comes later. You should only need to introduce about three or four vocabulary words. If you have to introduce more than that, the text may be too difficult, and you should consider selecting a less challenging book.
+
+[252] *Adapted from Jan Richardson’s
+
+[253] The Next Step Forward in Guided Reading, 201
+
+[254] Final Thoughts
+
+[255] Consider having students record new vocabulary words in a notebook that they can access and apply during writer’s workshop or for assignments in other subjects. New vocabulary should also be introduced during read-aloud sessions and across content areas. Make an effort to incorporate rich vocabulary throughout the day in conversation with your students. Don’t shy away from using complex vocabulary when speaking. Talking down to students does a disservice to them. Get creative and get talking!
+
+[256] Literacy Tip for September
+
+[257] Tips for Helping Struggling Readers‬
+
+[258] What do you do with a student who isn’t progressing? Not much frustrates a teacher‬
+
+[259] ‭ more than a lack of progress. If you’ve been consistently teaching a student in a differentiated‬
+
+[260] ‭ small group reading environment, but they’re just not making progress, it’s time to think about‬
+
+[261] ‭ next steps. Here are some ideas to try.‬
+
+[262] *Adapted from Jan Richardson’s‬‭ The Next Step Forward‬‭ in Guided Reading.‬
+
+[263] ‭ Use the problem solving charts provided in each chapter to identify possible reasons‬
+
+[264] ‭ why the student isn’t progressing. These are a great tool to give you a snapshot of your‬
+
+[265] ‭ students’ strengths and weaknesses. Charts are available on the following pages: Pre-A- p. 47,‬
+
+[266] ‭ Emergent- p. 96, Early- p. 149, Transitional- p. 209.‬
+
+[267] ‭ After identifying potential learning gaps using the problem-solving chart, use Jan’s‬
+
+[268] ‭“Suggestions for Intervention” to provide intervention that targets those skills. Charts are‬
+
+[269] ‭ available on the following pages: Pre-A- pp. 48-50, Emergent- pp. 99-101, Early- pp. 151-152,‬
+
+[270] ‭ Transitional- pp. 211-214.‬‭ Select an intervention‬‭ strategy to try for one or two weeks, then‬
+
+[271] ‭ Reflect on your grouping and prompting. Is the student in the most appropriate group for their‬
+
+[272] ‭ needs, or would a lower level be more fitting? Remember that reading groups are meant to be‬
+
+[273] ‭ flexible, not firm. Are the prompts you’re giving specific to that student’s needs, and are they‬
+
+[274] ‭ effective in engaging and supporting (while challenging) the student?‬
+
+[275] ‭ Use your resources! Consult with your colleagues or specialists such as a Reading‬ Interventionist,
+
+[276] EL or Special Education teachers. Consider designating a monthly grade level‬ meeting to discuss struggling students, so that you can problem-solve as a group. Team think is‬ a powerful tool to share ideas and resources.‬
+
+[277] ‭ Plan activities such as independent and buddy reading and other opportunities for students to‬
+
+[278] ‭ practice skills. This will also increase engagement and build confidence and fluency.‬
+
+[279] ‭ Consider decreasing the student’s text level. This may sound counterintuitive, but sometimes‬
+
+[280] ‭ students get “stuck,” and dropping down a level, even just temporarily, may give them the boost‬
+
+[281] ‭ they need. Allowing them to read at a level below their actual instructional level can increase‬
+
+[282] ‭ motivation and self-assurance, which may be just the jolt they need to accelerate.‬
+
+[283] ‭ Be prepared to modify your lesson for English Language Learners and Special Education‬
+
+[284] ‭ students. We know that accommodations and modifications are often needed throughout the‬
+
+[285] ‭ day and across content areas for learners with unique needs, and this is no different in guided‬
+
+[286] ‭ reading groups. For example, students may benefit from visual aids when explaining new‬
+
+[287] ‭ vocabulary concepts. For instance, if you are reading a book that describes the ocean as‬
+
+[288] ‭“turquoise,” you might show a picture to provide a visual of what that color looks like. If you’re‬
+
+[289] ‭ introducing the word “shivering,” be sure to demonstrate the action for students to see. Another‬
+
+[290] ‭ simple accommodation may involve preferential seating- allow a student who is easily distracted‬
+
+[291] ‭ to sit at the end of the kidney table, closest to you, with a gap between themself and another‬
+
+[292] ‭ student. Or perhaps you allow a student with sensory issues to wear noise-canceling‬
+
+[293] ‭ headphones during individual reading time, so that they aren’t overwhelmed by other students’ reading aloud… The goal is to make all lessons accessible to all students.‬
+
+[294] *See Jan’s ideas for “Adaptations for DLLs and Students with IEPs” on the following pages:‬
+
+[295] ‭ Emergent- p. 102, Early- p. 153, Transitional- p. 114.‬
+
+[296] ‭ Sometimes, you may end up with a student who doesn’t naturally fit into one of your reading‬
+
+[297] ‭ groups or who needs extra, intensive instruction. You may need to provide individualized‬
+
+[298] ‭ intervention for such students, until they are able to join a regular group. Jan’s 10-minute lesson‬
+
+[299] ‭ plans are perfect for this situation, and they can be found on the following pages: Emergent- p.‬
+
+[300] ‭ 102; Early- p. 154. Providing individualized instruction may require you to get creative. You may‬
+
+[301] ‭ need to pull these students aside while the rest of the class is doing independent work,
+
+[302] ‭ perhaps you have an Educational Assistant or other support staff (SpEd, RTI, EL, etc.) that you‬
+
+[303] ‭ can train to work with the student. You could even consider training parent volunteers or‬
+
+[304] ‭ students in upper grades to read with students or work on targeted skills.‬
+
+[305] ‭ If you’ve taught your lessons with fidelity, and you’ve tried the intervention suggestions outlined‬
+
+[306] ‭ above, the next step is to contemplate other contributing factors that may be interfering with‬
+
+[307] ‭ student growth. For example, are there oral language deficiencies; has the student experienced‬
+
+[308] ‭ trauma; is the student’s attendance inconsistent; is it time to consider a referral for diagnostic‬
+
+[309] ‭ testing to identify possible neurodivergent conditions, etc.? At this point, you may consider‬
+
+[310] ‭ having other specialists (guidance counselor, SpEd, EL, OT, PT, RTI) assist in evaluating the‬
+
+[311] ‭ students in question, so they can provide input and expertise on next steps. Of course,‬
+
+[312] ‭ communication with parents is also essential in understanding students’ needs and considering‬
+
+[313] ‭ a way forward to best support them.‬
+
+[314] ‭ Every student is unique, and we know that they don’t all learn the same way, nor do they‬
+
+[315] ‭ advance at the same speed. Fortunately, educators are skilled in creativity, organization,‬
+
+[316] ‭ problem-solving, and most importantly, care for students and a desire to help them grow.
+
+[317] ‭ attributes will help you as you endeavor to meet the individualized needs of your striving‬ students.
+
+[318] Literacy Tip for June
+
+[319] How To Increase Fluency
+
+[320] by Courtney Rich
+
+[321] After monitoring and decoding are firm, students should begin to demonstrate more phrasing and expression in their reading. Let’s face it- listening to a student labor to read, word-by-word, in a heavily segmented fashion can be agonizing for both student and teacher. This is why it’s so rewarding to witness students’ progression from the word solving phase, into the world of fluency. But how can we help them advance from that point? Here are some tips for increasing fluency.
+
+[322] What texts should you use to work on fluency?
+
+[323] Natural language texts promote fluency, where decodable texts can inhibit it. Decodable texts tend to encourage segmented, word-by-word reading, e.g. “A d-o-g c-a-n r-u-n f-a-s-t.” Multicriterion texts however, promote a conversational style of reading, in which plot and dialogue occur naturally.
+
+[324] Additionally, when fluency is your focus, it can be beneficial to use a text at an easier (1-2 levels below instructional) reading level. This removes the decoding obstacle, so that students can concentrate their efforts on phrasing, intonation, and expression.
+
+[325] Selecting texts with some repetitive patterns can also contribute to fluency, as students will have built in practice with reoccurring phrases. Fiction texts containing dialogue are best for working on expression so that students have opportunities to talk like the characters.
+
+[326] When should you build fluency into your lessons?
+
+[327] Fluency instruction begins during circle time. One of the simplest and most effective ways to teach fluency is by modeling it. Teachers should read aloud to students every day, modeling expression and intonation. A variety of books can be used for read-alouds, but fiction books with multiple characters, rich vocabulary and interesting dialogue are best for this. (Hint: interactive read-alouds are also a prime opportunity to incorporate comprehension instructionsee comprehension strategies in chapter seven of
+
+[328] You can also work in opportunities to model fluency during small group instruction. This can be incorporated during a book preview, during individual conferences with students, or during your teaching point. You may also choose to have students practice what you’ve modeled by having them read chorally, echo read or participate in shared reading with you. During independent reading time, students build fluency by reading familiar texts, or texts that are slightly less challenging but highly engaging.
+
+[329] What are some specific activities that help build fluency?
+
+[330] There are many practical strategies you can employ to help students build fluency. Here are some of them:
+
+[331] . Encourage students to “Read it smoothly. Pretend you’re the character. Read it like the character. How would the character say that?”
+
+[332] . We direct beginning readers to point to each word as they read, to encourage one-to-one matching and accuracy, but we discourage pointing starting at level C, as it slows them down.
+
+[333] Teach sight words
+
+[334] . “Early readers need to build rapid recognition of common sight words so they can increase their fluency and free up cognitive space for solving new words” (Richardson, 2019, p. 130).
+
+[335] . When students know they are being timed, they tend to rush through their reading. This can cause errors, mumbling, and slurred reading, rather than reading with proper expression and prosody, not to mention gaps in comprehension. “Some assessments recommend that you time the reader, but the more important aspects of fluency are phrasing, expression, intonation, and attention to punctuation” (Richardson, 2019, pp. 162-163).
+
+[336] . Encourage phrasing by framing a few words at a time with your fingers and having the students read those portions of text.
+
+[337] . To encourage smoother, faster reading, the teacher can slide their finger from left to right, covering the words as the student reads. This pushes the student’s eye forward at a faster pace.
+
+[338] Slow vs. segmented reading
+
+[339] . Encourage students to “stretch” words, reading them slowly, rather than segmenting them sound-by-sound. I call this “turtle crawl” versus “rabbit hop” reading.
+
+[340] . Elkonin boxes are a great word study activity if students are struggling with
+
+[341] blending. Before writing, encourage students to slide their finger under the boxes while slowly
+
+[342] saying the word, rather than segmenting each sound.
+
+[343] . “In the making words activity, [students] use magnetic letters to make a series of words that differ by one letter. For example, they could make the following: cap-chap-clap-clop-slop-slot. This helps them monitor for a visual (letter) and auditory (sound) match. This match, also called synchrony, is critical for the development of reading fluency” (Sousa, 2014, as cited in Richardson, 2019).
+
+[344] . To increase prosody, provide students with a copy of the text (can be inserted in a sheet protector), and demonstrate how to add slash marks at natural pauses in sentences to indicate breaks in phrasing. This activity forces students to pay attention to punctuation and teaches them to read with appropriate speed and expression. Check out this
+
+[345] Fluent Phrasing
+
+[346] document for details.
+
+[347] Let us leave this place
+
+[348] where the smoke blows black
+
+[349] and the dark street winds
+
+[350] Past the pits
+
+[351] where the asphalt flowers grow.
+
+[352] We shall walk
+
+[353] that is measured
+
+[354] where the chalk-white arrows go
+
+[355] where the sidewalk ends.
+
+[356] ** Excerpt from "Where the Sidewalk Ends" by Shel Silverstein
+
+[357] Readers Theater.
+
+[358] This is a great way to get students to read and reread, and it encourages them to “read like the character.” “Include Readers Theater as an independent learning activity. Students practice the script for several days to increase fluency before they perform for their class or another classroom” (Richardson, 2019, p. 212).
+
+[359] . Students are often more engaged and encouraged to read fluently with a partner. Older students make great mentors to model fluent reading, and younger students love spending time with them. “Have students read familiar books with a partner. Train upper-grade students to coach lower-grade students who need support with fluency. Students read and reread poems, chants, or familiar books”
+
+[360] *Lesson demo videos are available for many of the activities mentioned above, such as prompting, teaching sight words, making words, sound boxes, finger sliding, and more in the online resource bank for
+
+[361] Literacy Tip for May
+
+[362] Common Questions about Guided Reading
+
+[363] by Dr. Jan Rich
+
+[364] In this month’s tip, I will share some common questions teachers ask:
+
+[365] Should I do book clubs or guided reading?
+
+[366] Although I love doing book clubs with intermediate readers, book clubs shouldn’t be a substitute for guided reading. Guided reading and book clubs differ in their purpose, the type of text that is used, and the way the text is read. During book clubs, students independently read a novel and then meet with other students to discuss it. The book has to be fairly easy since students read it on their own. The primary purpose of book clubs is small-group discussions with their peers.
+
+[367] During guided reading, students read a short, challenging text that is introduced and guided by the teacher. The goal of guided reading is to learn and apply reading strategies that strengthen a reader’s executive function skills. Other students can be reading their book club books and preparing for their discussion while you do guided reading with small groups. This
+
+[368] describes the usefulness of both approaches to reading instruction.
+
+[369] The following bookmarks can support students during book clubs:
+
+[370] Early Bookmarks
+
+[371] Advanced Bookmarks
+
+[372] . After you model each bookmark, students can use them to prepare for their book club discussions.
+
+[373] 2.    What should I do if my students are reading on grade level but are not solid with vowel patterns?
+
+[374] Vowel patterns are tricky for many children because the same sound can be spelled in different ways. For example, there are eight ways to spell the long a sound.
+
+[375] a          apron
+
+[376] ay        day, stray
+
+[377] ai         rain, strain
+
+[378] ei         rein
+
+[379] ey        obey, they
+
+[380] a_e      snake
+
+[381] eigh     eight, weigh
+
+[382] eig       reign, f
+
+[383] aigh     straight
+
+[384] et         Buffet, duvet
+
+[385] au        gauge
+
+[386] ea        break, steak
+
+[387] e          very, cafe
+
+[388] As with any reading lesson, I recommend that you apply the Assess, Decide, Guide process when doing small group reading lessons.
+
+[389] Use the word study inventory on page 324 of
+
+[390] The Next Step in Guided Reading
+
+[391] to identify the vowel patterns students already know and the ones you need to teach.
+
+[392] Select the easiest patterns to teach first. They are often the patterns that are contained in common words.
+
+[393] Use about 5-7 minutes of your guided reading lesson to review and teach vowel patterns. First, review the most recently taught patterns by writing them on a dry erase board (or use flashcards) and have students say the sounds. Then use short, engaging activities such as Making Words, Elkonin Boxes, and Analogy Charts to teach a new pattern. There are
+
+[394] on my website that list the pattern on one side and words that use the pattern on the other side. You can print the pages, fold the paper in half, laminate, and cut the cards apart.
+
+[395] My students have terrible handwriting. Is it ever too late to work on handwriting?
+
+[396] It is never too late to teach handwriting.
+
+[397] Research shows that students who write neater, write more and write better than students who have poor handwriting skills. It does not take long to see a change if you start to use lined handwriting paper and show students how to use the lines. Not only will students immediately show greater legibility, but they will also be more eager to write. You can find handwriting templates
+
+[398] 4.
+
+[399] I have a few reluctant writers who only write one or two sentences during our 20-minute guided writing lesson. What can I do to get them to write more?
+
+[400] First, help students plan with keywords. After you unpack the writing prompt, invite students to contribute a few important words they should use in their response. Students should write these words at the top of their paper. After they use one of the words in their writing, they can cross it off. This will keep students organized and motivated because they have an idea of what to write next.  Another idea is to tell reluctant writers to draw a line down the left side of the paper to show how much they think they can write in 20 minutes. Many students are motivated to reach the goals they set.
+
+[401] At the end of each guided reading lesson, I have my students write two new words and their definitions in their reading notebooks. What are some activities students can do on their own or in small groups to practice the new words they are learning?
+
+[402] Preparation: Write each vocabulary word on an index card. After you teach students these four practice activities, they can do them with their guided reading group while you are teaching a different group of students:
+
+[403] – Place the cards face-up on the table. One student gives a clue about one of the words by saying,
+
+[404] I’m thinking of a word
+
+[405] .... Clues might include the definition, the number of syllables, the part of speech, an antonym or synonym, the meaning of the affix, etc. Then other students in the group try to guess the word.
+
+[406] Put Two Words Together
+
+[407] – Deal the cards so that each student receives 2-5 words. Each student composes a sentence using two (or more) of the vocabulary words they were dealt and shares their sentence with the group.
+
+[408] – Place the cards face up on the table. Students have their own whiteboard and dry-erase marker. Each student selects a word to sketch on their whiteboard. Then students share their illustrations with the group and invite their peers to guess the word they illustrated.
+
+[409] – Place the cards on the table. A student secretly chooses a word on the table. Then the other students in the group try to guess it by asking questions about the word that require a yes/no answer. For example,
+
+[410] Does the word have three syllables? Is it an adjective? Does it have a prefix?
+
+[411] If they don’t guess the word after five questions, the student reveals the secret word.
+
+[412] To hold students accountable, assess them on their vocabulary words once every two weeks.
+
+[413] If you have a question you’d like me to answer, you can contact me through my
+
+[414] Literacy Tip for April
+
+[415] Rethinking How We Teach Readers
+
+[416] As a reading consultant and author, I hear from a lot of teachers who have been told by their school districts that they must follow a scripted reading program with a narrow focus on phonics. The teachers’ primary concern is that the phonics skills are not transferring to reading authentic, non-decodable texts. In fact, teachers tell me they have more struggling readers now than in previous years -- to the point that school districts are being forced to hire additional special education and reading intervention teachers.
+
+[417] Here are some specific concerns with suggestions for instruction:
+
+[418] (notice the BOLD)
+
+[419] Children are not writing well.
+
+[420] Teachers are concerned that today’s scripted reading programs have little, if any, focus on the composing act of writing. Writing is often reduced to spelling a few high-frequency words, writing a short, dictated sentence, or filling out a worksheet. I suggest that teachers replace the simplistic writing tasks with guided writing, shared writing, and written responses to literature and learning. Teach students how to creatively think about their writing, organize their ideas, compose their own sentences, and spell words they have not been taught.
+
+[421] Children are not learning to use a variety of strategies
+
+[422] to decode unknown words. When they come to a new word, they stop and sound out each letter. That strategy works fine with CVC words, but it becomes laborious and ineffective when used on longer, more complex words. Instead, teach children how to use flexible decoding strategies such as taking words apart by onset and rime, syllable, or inflectional ending.
+
+[423] Children are not using meaning
+
+[424] during the decoding process. Children are mispronouncing words like
+
+[425] want, who, warm, worm,
+
+[426] because they don’t follow the specific phonics rules they have been taught. Mispronouncing a word is not uncommon. Even well-educated adults make mistakes when they read out loud. The problem is, children are not self-correcting their errors because they aren’t being prompted to use meaning. Teach your students to think about meaning on a sentence and story level while they are in the act of decoding unfamiliar words.
+
+[427] Children have weak comprehension.
+
+[428] Because decodable stories are tightly controlled for phonics skills, they lack a natural flow of language to support the feedforward process of anticipation and the construction of meaning. Additionally, the stories are usually far too short and too simple. Decodable texts often lack dynamic characters, opportunities to make inferences, or themes. An evidence-based way to boost comprehension is by supplementing the program with read aloud and shared reading experiences using diverse and engaging picture books. Additionally, research shows teachers should limit decodable texts to emergent readers and have children read authentic, complex stories as soon as they can blend CCVC words
+
+[429] Children are struggling with reading fluency.
+
+[430] A reading specialist I know is required to use only DIBELs passages for assessment
+
+[431] instruction.  Children are timed on grade-level passages. If they score below the recommended words-per-minute, the children are placed in intervention.  The intervention includes orally reading the same grade-level DIBELs passage again and again and again. The focus is totally on improving how quickly a child reads. Comprehension is ignored or merely an after-thought. We know that oral reading fluency is improved by building a large bank of sight words, developing automaticity with decoding, and attending to meaning. Other practices that improve fluency are rereading familiar stories, rehearsing for performance reading such as readers’ theater, and incorporating shared reading practices such as echo and cloze reading. We can’t let research-proven practices take a back seat to unverified, untested instructional procedures – no matter how popular those procedures have become.
+
+[432] There is little if any small-group differentiated instruction.
+
+[433] Scripted programs are delivered to the whole class regardless of the students’ abilities or needs. Many of the new programs take 60 to 120 minutes to deliver, which leaves little time to differentiate instruction for students who are reading above or below grade level. I recommend that you streamline whole group lessons, redirect some of the activities to independent or paired experiences, and free up time for small group lessons. Using an
+
+[434] integrated lesson framework
+
+[435] that includes reading, writing, and phonics will help struggling readers advance. The lessons will also challenge those reading above grade level.
+
+[436] Independent reading is minimized
+
+[437] or even banned. Gone are the days when I would walk into a classroom and see children so focused on reading their self-selected chapter books that they didn’t even notice I was there! Gone are the days when children would run up to me, clutching their book to their chests, anxious to tell me about what they were reading. Now I see the entire class with the same book (despite the fact that the book is often too difficult for some of them). And, although they might have the book open, several children are not even trying to read it! It’s extremely important to foster reading motivation. Helping students find books they can and want to read will increase reading motivation, support fluency, and extend vocabulary. It will also create life-long readers who can’t wait to read another book.
+
+[438] Teachers are being taught to assess reading with a stopwatch!
+
+[439] Teachers want to know more than just their students’ reading speed. They need to know their readers’ strengths and needs. They need to know why a child isn’t fluent and why some children have weak comprehension even though they have adequate decoding skills, good oral language, strong background knowledge, and a rich vocabulary. Teachers need to take running records or use an assessment kit to evaluate a student’s use of sources of information. The Science of Reading Defining Guide stresses that thereading brain uses “multiple sources of information” (p.13). A comprehensive reading assessment such as the
+
+[440] Next Step Guided Reading Assessment
+
+[441] can provide important information that will help you make sound instructional decisions related to why struggling readers aren’t progressing.
+
+[442] It saddens me to see the direction reading education is going. Parents tell me their children don’t want to read anymore. Teachers say reading is no longer fun to teach. Too many children have lost the joy of reading. It makes me want to cry –but way deep down, I still believe we can do something about it!
+
+[443] Science of Reading Defining Guide
+
+[444] Literacy Tip for March
+
+[445] For this month’s Lit Tip, I’m posting an excellent
+
+[446] by Dr. Maren Aukerman, associate professor of literacy at the University of Calgary. Her message titled, “Toward Comprehensive, Research-Informed Literacy Instruction: Thinking With, Against, and Beyond the Science of Reading,” brings clarity and kindness to the often inflammatory and inaccurate rhetoric circulating around reading science.
+
+[447] Dr. Aukerman organizes her talk around these important points:
+
+[448] Phonics as a Panacea
+
+[449] Structured Literacy
+
+[450] Comprehension Research-Informed Literacy Instruction.
+
+[451] “must-watch”
+
+[452] video should be viewed by every educator.
+
+[453] Literacy Tip for February
+
+[454] An Intervention Framework that Works!
+
+[455] RISE intervention
+
+[456] program is spreading rapidly across the US and Canada. This month I want to briefly explain what RISE is and how it works.
+
+[457] ntervention for
+
+[458] is a short-term, Tier 2 intervention based on the integrated, literacy framework contained in my
+
+[459] Next Step Forward in Guided Reading
+
+[460] Students rotate every day through four stations that target the elements of skilled reading. At Station 1, students read an engaging book, carefully chosen to match the phonics skills they are learning. Station 2 follows a scope and sequence for explicitly teaching phonics. Students use multimodal activities such as picture sorts, word chains, and Elkonin boxes. At Station 3, they reread the book they read at Station 1 on the previous day, but this time the focus is on increasing oral reading fluency and comprehension. At Station 4, the students write about the book and are given opportunities to practice their newly acquired sight words and phonics skills.
+
+[461] Does RISE work?
+
+[462] An action research study collected data from 1,273 striving readers in schools from Tennessee, Virginia, Florida, and South Carolina. Results showed that students who received RISE instruction for an average of 33 days achieved a 6.4-month gain in reading. A
+
+[463] dissertation study
+
+[464] confirmed these results, and a
+
+[465] recent research and validation study
+
+[466] showed that RISE students in grades 1-4 made substantial growth in reading as measured by the Measure of Academic Progress (MAPÒ).
+
+[467] How can I implement RISE?
+
+[468] The RISE framework can be implemented with up to 16 striving readers and one to four instructors, using any curriculum and reading text. One of the instructors should be a reading teacher, but the others can be teaching assistants, special education teachers, hourly teachers, student teachers, librarians, etc. You will achieve the most acceleration when children have 60 minutes of RISE for 6-8 weeks utilizing four instructors. Scholastic has published two RISE intervention kits: the basicRISE kit is for children reading at grade levels K-3, and the RISE Up kit is for students in the intermediate grades who need to improve vocabulary and comprehension.
+
+[469] explains what is included in the Scholastic RISE and RISE Up kits written with Ellen Lewis.
+
+[470] Literacy Tip for January
+
+[471] This month I am reposting a
+
+[472] written by my friend, Dr. Michele Dufresne. Michele discusses the importance of using connected text to support the development of phonics. She also mentions the value of exposing beginning readers to a variety of texts—decodable as well as more natural language stories.
+
+[473] I’ve had numerous conversations with teachers who are struggling with using only decodable texts. The stilted language and overused phonics skills can be tricky for young readers. Decodable texts use language structures that don’t sound like spoken language. They steer kids from using context to decode unknown words, limit the development of decoding flexibility, and are far less engaging.
+
+[474] Decodable books have gained popularity because they give students an opportunity to practice the phonics skills they have learned. However, research has shown that a steady diet of decodable books can hinder a child’s reading
+
+[475] and
+
+[476] . What is best for children—decodable or non-controlled texts?
+
+[477] by Pugh, Kearns, and Heibert (2023) addresses this question. The researchers studied the effects of using decodable, nondecodable, and a combination of both with beginning readers. They learned that children are best served by reading both types of texts. "There was convincing evidence across the comparisons suggesting that interventions that included both decodable text reading and nondecodable text reading had larger effects than students without both types of text reading"
+
+[478] (p. 14).
+
+[479] So, don’t throw out those complex texts. Consider using both -- because text matters!
+
+[480] Monthly Message from Jan
+
+[481] Literacy Tip for August 2023
+
+[482] by Sandra Weaver, Next Steps Consultant
+
+[483] I met Jameson in February. He was in a first-grade traditional classroom receiving only whole group instruction that emphasized phonics. Since Jameson was a year below grade level, his classroom teacher recommended tutoring to his mother. His mother contacted me. After meeting with the mom and Jameson, I immediately assessed him using a variety of assessment tools. Here is a list of his strengths:
+
+[484] Background knowledge
+
+[485] Listening comprehension
+
+[486] Read and write about 30 high frequency words
+
+[487] Consonants and the short e
+
+[488] Able to orally segment and blend phonemes in short words
+
+[489] When reading connected text, he would attempt to sound out unknown words
+
+[490] Reading comprehension
+
+[491] Although Jameson had some phonics knowledge, he wasn’t able to transfer that knowledge to reading. He successfully read text at level B. Grade level for this time of year would be level G.
+
+[492] Based on his assessments, I developed the following instructional goals:
+
+[493] Increase phonemic awareness, especially short vowels
+
+[494] Hear and record phonemes in CVC words
+
+[495] Teach sound-letter connections for medial vowels, digraphs, and blends
+
+[496] Build a stronger bank of high-frequency words
+
+[497] Teach decoding skills and strategies
+
+[498] Teach letter formation for lowercase letters
+
+[499] Write a short retelling that includes key details
+
+[500] Increase text level reading to reach grade level expectations
+
+[501] We started 30-minute tutoring sessions, two times a week. I followed
+
+[502] Jan’s new integrated
+
+[503] lesson framework
+
+[504] On Day 1 I taught 15 minutes of phonological awareness and phonics instruction and 15 minutes of reading a challenging book. On Day 2 we reread the book for fluency, had a comprehension conversation and did guided writing.
+
+[505] Jameson started to make progress immediately.  In fact, after our very first lesson, his mother sent me this message: “I wanted to touch base and let you know that Jameson was very positive after his session yesterday. He came home and knew exactly what he needed to do for homework. I haven’t seen him that empowered in a while and so I’m excited to see his progress moving forward.”
+
+[506] After 18 tutoring sessions (a total of 9 hours of instruction), Jameson progressed from reading at a level B to reading on grade level (text level I) with accuracy, fluency, and comprehension. That’s a really great story.
+
+[507] I credit Jameson’s success to Jan’s lesson framework that integrates phonics, reading and writing. In each session I explicitly taught all the reading pillars identified by the National Reading Panel (2000) and more: phonological awareness, phonics, fluency, vocabulary, comprehension, writing, and oral language. I also monitored his progress and used authentic assessments to establish weekly goals based on his strengths and needs.
+
+[508] This is one of thousands of success stories from using The Next Step framework.
+
+[509] You can watch some videos of Jameson do
+
+[510] and reading grade level text
+
+[511] For more information on remote tutoring or professional development, please contact
+
+[512] Jitgr16@gmail.com
+
+[513] www.justintimeguidedreading.com
+
+[514] Daisy ran to the door
+
+[515] and looked outside.
+
+[516] "Come on!" she called to Jack.
+
+[517] "Let's go outside and play."
+
+[518] Jack ran out the door, past Daisy,
+
+[519] and down the steps.
+
+[520] He was wearing his Super Dog cape.
+
+[521] "I'm faster than a speeding bullet,"
+
+[522] he said. "Try to catch me!"
+
+[523] thly Message from Jan
+
+[524] Literacy Tip for May 2023
+
+[525] Updated Making Word Procedures
+
+[526] by Jan Richardson
+
+[527] The Making Words activity is an excellent instructional procedure for explicitly teaching phonics skills. Children manipulate magnetic letters to make a series of words that contain the same phonics ski
+
+[528] ll but differ by one or two phonemes. For example, if children are learning about digraphs, you could dictate
+
+[529] hat-chat-chap-chip-ship-shop-chop
+
+[530] . Using a series of words that differ by one or two letters, helps students attend to letter sequence and synchrony (the connection between sounds and letters). Making Words has been part of my “Next Steps” lesson framework for decades, but I have recently updated the procedures to teach both encoding (spelling) and decoding (reading). Here are the steps for the updated version of Making Words:
+
+[531] Identify a target skill (short vowels, digraphs, blends, silent e, or vowel patterns).
+
+[532] Create a chain of words that contain the target skill and differ by one letter or letter cluster. The following are examples of a Making Words activity that targets specific phonics skills. You can find more examples in
+
+[533] (Scholastic, 2019).
+
+[534] had-hid-rid-rig-rag-rug
+
+[535] dish-dash-mash-mush-much-such
+
+[536] Initial blends:
+
+[537] crab-slab-grab-grub-snub-shrub
+
+[538] lift-lint-list-last-cast-past-pant-pint
+
+[539] pal-pale-pane-pan-man-mane-mine-pine-pile
+
+[540] Vowel patterns:
+
+[541] see-seed-weed-week-cheek-creek-creep
+
+[542] Give each student a tray of magnetic letters and tell them the letters they will need to remove to make the list of words.
+
+[543] Dictate the first word for students to make. As students make the word, tell them to say the individual sounds. This helps strengthen their orthographic mapping skills (
+
+[544] Teach them how to break the word at the onset and rime. The onset is the letter(s) before the vowel,and the rime is the part that begins with the vowel. For example, in the word
+
+[545] , the onset is
+
+[546] and the rime is
+
+[547] . Teaching children how to break words between an onset and rime helps them recognize common patterns within words. It also helps children efficiently decode and spell new words
+
+[548] https://www.readingrockets.org/strategies/onset_rime
+
+[549] . After they break the word, have them point to each part as they say it. Then they should remake the word and read it, blending the parts quickly.
+
+[550] Now tell them to
+
+[551] change a letter or letter cluster
+
+[552] in the word. Don’t tell them the new word they are going to make. For example, if the children are working on initial blends, you might say change the letters S-T in
+
+[553] to the letters
+
+[554] . After they make the new word, they should break the word at the onset and rime (cr-amp), say the parts, and read the word. This activity helps them develop good decoding skills.
+
+[555] make a new word
+
+[556] . Dictate the next word in the chain but don’t tell them which letter(s) they should change. Say, “Change the word
+
+[557] . Slide your finger under the word
+
+[558] while you slowly say the word
+
+[559] . Which letter do you need to change? Break it, say it, and read it.” This activity helps them develop good encoding skills.
+
+[560] Children continue to make the words in the chain you created. Alternate having children change a letter or letter cluster (step 6) with dictating a new word for them to make (step 7).
+
+[561] demonstrates these updated procedures. You can download and print this handout to help you remember the new steps.
+
+[562] Literacy Tip for April 2023
+
+[563] A few weeks ago, I was interviewed by Jeremiah Short, a reading intervention teacher from Houston, Texas. He has a podcast called The Phenomenal Student. Jeremiah calls himself a structured literacy teacher, but he actually uses a variety of approaches based on his students’ needs (something I really like!). It was great having a pleasant and respectful conversation with him about current trends and challenges. After I clarified some common misperceptions about guided reading, he and I realized we have a great deal in common.
+
+[564] to watch a recording of the interview.
+
+[565] Literacy Tip for March 2023
+
+[566] This month's lit tip is special.
+
+[567] to check out what Jan has to say.
+
+[568] Literacy Tip for F
+
+[569] The New 15-minute Lesson Plan
+
+[570] I’ve spent countless days and hours in classrooms this school year, working with students and sitting shoulder-to-shoulder with teachers. When students return
+
+[571] ed to school this fall, teachers immediately recognized that many children, especially those most dependent on in-person instruction, had fallen behind and desperately needed intense, differentiated instruction. Teachers repeatedly ask me, “With the limited time I have, how can I teach additional small groups? How can I provide more differentiated phonics instruction?”
+
+[572] That’s why I developed my new 15-minute guided reading lesson plans. By teaching a 15-minute lesson instead of the traditional 20-minute, a teacher can add an extra small group each day! One of my new lessons specifically targets phonics, the others target reading and writing. Each of the three easy-to-follow lessons weaves phonics skills into the reading, writing, and word study.
+
+[573] The phonics lesson, for example, directs increased attention to the specific needs of students by including a quick review of previously taught skills, explicit modeling of a new skill, short blending and segmenting drills, and a series of hands-on word study
+
+[574] activities that target the same phonics skill. During the reading component, students are quickly introduced to a challenging text and then guided to read the text with accuracy, fluency, and comprehension. The writing component extends student comprehension and cements the phonics skills by having students write about the book they just read. Click
+
+[575] for the new lesson plans. They’re free!
+
+[576] Literacy Tip for January 2023
+
+[577] On Christmas day, 1863, Henry Wadsworth Longfellow—a 57-year-old widowed father of six, wrote a poem called, “Christmas Bells.” It reflected the conflict he was personally experiencing at that time in our nation’s history. The Civil War was raging, Longfellow’s wife had been killed in a tragic fire, and his oldest son had been paralyzed in battle. One of the final stanzas to the poem reads,
+
+[578] And in despair I bowed my head;
+
+[579] "There is no peace on earth," I said;
+
+[580] "For hate is strong, and mocks the song
+
+[581] Of peace on earth, good-will to men!"
+
+[582] A decade later, the words to Longfellow’s poem were set to music, and “I Heard the Bells on Christmas Day” became one of America’s favorite Christmas songs.
+
+[583] Now, 160 years later, the world (even the education world) is still searching for peace. A “Reading War,” fueled by biased social media reports, is dividing our schools, promoting unkindness and widespread disrespect. It breaks my heart to see teachers name-calling and school districts mandating some reading programs while banning others – all based on questionable, unverified “research.”
+
+[584] {"data":{"site":{"metaSiteId":"02517805-8510-4d76-8cc1-a21d9ba7b354","userId":"7e0b43a3-a9b6-4cde-b80d-700ade165575","siteId":"f5bf71b1-647a-47fe-8f91-c63d0b50b7c4","externalBaseUrl":"https:\/\/www.janrichardsonreading.com","siteRevision":2458,"siteType":"UGC","dc":"uw2-pub-1","isResponsive":false,"editorName":"Unknown","sessionId":"867d345b-e6d4-4442-a660-2d3da3e514d1","isSEO":false,"appNameForBiEvents":"thunderbolt"},"rollout":{"siteAssetsVersionsRollout":false,"isDACRollout":0,"isTBRollout":true},"fleetConfig":{"fleetName":"thunderbolt-renderer-gradual","type":"Rollout","code":1},"requestUrl":"https:\/\/www.janrichardsonreading.com\/literacy-tips","isInSEO":false,"platformOnSite":true,"adjustForPrerenderActivation":true}}
+
+[585] =0&&T.threshold
+
+[586] (l+=e+t,e+t));if(l
+
+[587] {let n=`${e+C+r}label`;l=Math.max(t.labels[n].width,l)});((e,t,i,n)=>{let{hoverState:a}=t;if("-1"!==a){let{menuItemIds:o}=t,s=o.indexOf(a);if(r(t.hoverState)||a===O){if(!t.realWidths)return;let a=Math.max(n,t.children[-1!==s?e+s:e+O].width),o=Math.max(n,t.children[`${e}dropWrapper`].width),l=(0!==t.moreSubItem.length?t.labels[`${t.moreSubItem[0]}label`].lineHeight:0)+15+t.menuBorderY+t.labelPad+t.menuButtonBorder;t.moreSubItem.forEach(e=>{p(i[e],{minWidth:`${a}px`}),p(i[`${e}label`],{minWidth:"0px",lineHeight:`${l}px`})});let h=r(t.hoverState)?t.hoverState:"__more__",c={width:t.children[e+h].width,left:t.children[e+h].left},d=((e,t,i,r,n)=>{let{width:a,height:o,alignButtons:s,hoverListPosition:l,menuItemContainerExtraPixels:h}=t,c=t.absoluteLeft,d=((e,t,i,r,n,a,o,s,l,h)=>{let c="0px",d="auto",u=a.left,m=a.width;if("left"===t?c="left"===n?0:`${u+e.left}px`:"right"===t?(d="right"===n?0:`${r-u-m-e.right}px`,c="auto"):"left"===n?c=`${u+(m+e.left-i)/2}px`:"right"===n?(c="auto",d=`${(m+e.right-(i+e.width))/2}px`):c=`${e.left+u+(m-(i+e.width))/2}px`,"auto"!==c){let e=o+parseInt(c,10);e+h>l?(c="auto",d=0):c=e
+
+[588] l?0:d),{moreContainerLeft:c,moreContainerRight:d}})(h,s,r,a,l,i,c,c+a,t.bodyClientWidth,n);return{left:d.moreContainerLeft,right:d.moreContainerRight,top:t.needToOpenMenuUp?"auto":`${o}px`,bottom:t.needToOpenMenuUp?`${o}px`:"auto"}})(0,t,c,a,o);p(i[`${e}${C}`],{left:d.left,right:d.right}),p(i[`${e}dropWrapper`],{left:d.left,right:d.right,top:d.top,bottom:d.bottom})}}})(e,t,i,l),t.originalGapBetweenTextAndBtn&&s.forEach(r=>{t.hasOriginalGapData[r]||_(i[`${e}${r}`],{originalGapBetweenTextAndBtn:t.originalGapBetweenTextAndBtn[`${e}${r}`]})}),((e,t,i,r)=>{let{realWidths:n,height:a,menuItemContainerExtraPixels:o}=i,s=0,l=null,h=null,c=i.lineHeight,d=a-o.height;for(let a=0;a
+
+[589] 0&&o[o.length-1])||6!==c[0]&&2!==c[0])){u=0;continue}if(3===c[0]&&(!o||c[1]>o[0]&&c[1]
+
+[590] {"platform":{"ssrPropsUpdates":[],"ssrStyleUpdates":[],"ssrStructureUpdates":[]},"pages":{"compIdToTypeMap":{"comp-kdt3lhpz":"WRichText","masterPage":"MasterPage","SITE_HEADER":"HeaderContainer","SITE_FOOTER":"FooterContainer","PAGES_CONTAINER":"PagesContainer","comp-k8we6k45":"StripColumnsContainer","SITE_PAGES":"PageGroup","comp-k8we6kjx":"Column","BACKGROUND_GROUP":"BackgroundGroup","SCROLL_TO_TOP":"Anchor","SCROLL_TO_BOTTOM":"Anchor","SKIP_TO_CONTENT_BTN":"SkipToContentButton","comp-lgygyvwg":"VerticalMenu","comp-ma42g9gi":"WRichText","comp-m8x6bmb5":"WRichText","comp-m7dkoxvg":"WRichText","comp-m6gwdgch":"WRichText","comp-m5d3qumt":"WRichText","comp-m46217lo":"WRichText","comp-m2tfyenn":"WRichText","comp-m1p5a8dc":"WRichText","comp-lwwpx0v8":"WRichText","comp-lwwqhq28":"WRichText","comp-lvlklp96":"WRichText","comp-lvlklpcq2":"WRichText","comp-lvlklp9f":"WRichText","comp-lucs8ovs":"WRichText","comp-lt95r1rl":"WRichText","comp-ls15ao0f":"WRichText","comp-lqt8yqfv":"WRichText","comp-lksgr8o7":"WRichText","comp-lksitnuf":"WRichText","comp-lksikccq":"VideoPlayer","comp-lh74bocr":"WRichText","comp-lfu9hxjk":"WRichText","comp-lep4cjxs":"WRichText","comp-ldmbm1h7":"WRichText","comp-lcew57em":"WRichText","comp-k93hny9v":"WRichText","comp-lwwqjxm4":"WRichText","comp-lvlklpcs":"FiveGridLine","comp-lvlknq82":"FiveGridLine","comp-lvlko39j":"FiveGridLine","comp-lvlkp4xv":"FiveGridLine","comp-lvlkpr0a":"FiveGridLine","comp-lvlkq9aw":"FiveGridLine","comp-lvlktp7r":"FiveGridLine","comp-lvlkqjxw":"FiveGridLine","comp-lvlkqw95":"FiveGridLine","comp-lvlkr8cu":"FiveGridLine","comp-lvlkriew":"FiveGridLine","comp-lvlkrveu":"FiveGridLine","comp-lvlks6ie":"FiveGridLine","comp-m2tgcu4x":"FiveGridLine","comp-m2tge87g":"FiveGridLine","comp-m2tgfenu":"FiveGridLine","comp-m2tgeouf":"FiveGridLine","pageBackground_hh27x":"PageBackground","hh27x":"Page","comp-l6y4idcy":"ClassicSection","comp-l6y4idcy1":"ClassicSection","comp-lvlklp73":"ClassicSection","comp-lvlkk3iw":"ClassicSection","comp-lvlkj581":"ClassicSection","comp-l6y4idd0":"ClassicSection","comp-l6y4idcz":"ClassicSection","comp-k93hn1h1":"StripColumnsContainer","comp-ma42xnfe":"Group","comp-k93hn1j1":"Column","comp-m2tg9eo1":"Container","comp-lwwqiym7":"Container","comp-lvlklpcp":"Container","comp-m2tghotu":"Group","Containerhh27x":"Group","DYNAMIC_STRUCTURE_CONTAINER":"DynamicStructureContainer","site-root":"DivWithChildren","main_MF":"DivWithChildren","hh27x_wrapper":"PageMountUnmount","hh27x_wrapper_background":"PageMountUnmount"}},"appsWarmupData":{},"ooi":{"failedInSsr":{}}}
+
+[591] LITERACY TIPS
+
+[592] CONFERENCES/WEBINARS
+
+[593] VIDEO CLIPS
+
+[594] RISE RESOURCES
+
+[595] Remove the POWr logo from the bottom of your form.
+
+[596] Select from an email input, multiple choice, images, phone number, signature, file upload, text, checkbox, dropdown, and more!
+
+[597] The number of different forms you can add to one website.
+
+[598] Increase the number of form submissions you can receive on your form each month.
+
+[599] Select the number of people who receive email alerts every time someone completes your form.
+
+[600] Select your preferred payment provider from PayPal, Stripe (for credit cards) or send intructions for offline payments.
+
+[601] Allow users to upload files to your form, like images or PDFs.
+
+[602] See all of your form responses in your own personal dashboard and export them to CSV.
+
+[603] Show a message, redirect to another page, display submissions publicly or hide the form once somebody completes it.
+
+[604] Design your own customer confirmation email that gets sent automatically after someone completes your form.
+
+[605] Keep your forms short and smart with rules for which parts of your form to show based on a user's previous answers.
+
+[606] Sync all new form responses to Google Sheets in real time.
+

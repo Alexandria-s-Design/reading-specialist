@@ -1,0 +1,150 @@
+PAGE: video_clips
+Extracted text blocks: 73
+============================================================
+
+[1] {"fleetConfig":{"fleetName":"thunderbolt-renderer-gradual","type":"Rollout","code":1},"mode":{"qa":false,"enableTestApi":false,"debug":false,"ssrIndicator":false,"ssrOnly":false,"siteAssetsFallback":"enable","versionIndicator":false},"componentsLibrariesTopology":[{"artifactId":"editor-elements","namespace":"wixui","url":"https:\/\/static.parastorage.com\/services\/editor-elements\/1.14996.0"},{"artifactId":"editor-elements","namespace":"dsgnsys","url":"https:\/\/static.parastorage.com\/services\/editor-elements\/1.14996.0"}],"siteFeaturesConfigs":{"sessionManager":{"isRunningInDifferentSiteContext":false}},"language":{"userLanguage":"en"},"siteAssets":{"clientTopology":{"mediaRootUrl":"https:\/\/static.wixstatic.com","scriptsUrl":"static.parastorage.com","staticMediaUrl":"https:\/\/static.wixstatic.com\/media","moduleRepoUrl":"https:\/\/static.parastorage.com\/unpkg","fileRepoUrl":"https:\/\/static.parastorage.com\/services","viewerAppsUrl":"https:\/\/viewer-apps.parastorage.com","viewerAssetsUrl":"https:\/\/viewer-assets.parastorage.com","siteAssetsUrl":"https:\/\/siteassets.parastorage.com","pageJsonServerUrls":["https:\/\/pages.parastorage.com","https:\/\/staticorigin.wixstatic.com","https:\/\/www.janrichardsonreading.com","https:\/\/fallback.wix.com\/wix-html-editor-pages-webapp\/page"],"pathOfTBModulesInFileRepoForFallback":"wix-thunderbolt\/dist\/"}},"siteFeatures":["accessibilityBrowserZoom","appMonitoring","assetsLoader","businessLogger","captcha","clickHandlerRegistrar","commonConfig","componentsLoader","componentsRegistry","consentPolicy","contentReflow","cyclicTabbing","domSelectors","domStore","environmentWixCodeSdk","environment","locationWixCodeSdk","mpaNavigation","navigationManager","navigationPhases","ooi","pages","panorama","renderer","reporter","router","scrollRestoration","seoWixCodeSdk","seo","sessionManager","siteMembersWixCodeSdk","siteMembers","siteScrollBlocker","siteWixCodeSdk","speculationRules","ssrCache","stores","structureApi","thunderboltInitializer","tpaCommons","translations","usedPlatformApis","warmupData","windowMessageRegistrar","windowWixCodeSdk","wixCustomElementComponent","wixEmbedsApi","componentsReact","platform"],"site":{"externalBaseUrl":"https:\/\/www.janrichardsonreading.com","isSEO":false},"media":{"staticMediaUrl":"https:\/\/static.wixstatic.com\/media","mediaRootUrl":"https:\/\/static.wixstatic.com\/","staticVideoUrl":"https:\/\/video.wixstatic.com\/"},"requestUrl":"https:\/\/www.janrichardsonreading.com\/copy-of-success-stories","rollout":{"siteAssetsVersionsRollout":false,"isDACRollout":0,"isTBRollout":true},"commonConfig":{"brand":"wix","host":"VIEWER","bsi":"","consentPolicy":{},"consentPolicyHeader":{},"siteRevision":"2458","renderingFlow":"NONE","language":"en","locale":"en-us"},"interactionSampleRatio":0.01,"accessTokensUrl":"https:\/\/www.janrichardsonreading.com\/_api\/v1\/access-tokens","experiments":{"specs.thunderbolt.hardenFetchAndXHR":true,"specs.thunderbolt.securityExperiments":true,"specs.thunderbolt.browserCacheReload":true,"specs.thunderbolt.addIdAsClassName":true,"specs.thunderbolt.usePrerenderUntilScript":true,"specs.thunderbolt.adjustForPrerenderActivation":true}}
+
+[2] 
+
+[3] .AV56HG{border-top:var(--lnw,2px) dashed rgba(var(--brd,var(--color_15,color_15)),var(--alpha-brd,1));box-sizing:border-box;height:0;max-height:5}
+
+[4] VIDEO CLIPS | jrreading
+
+[5] {"prefetch":[{"tag":"mpa-prefetch-moderate","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":"/copy-of-success-stories"}}]},"eagerness":"moderate"}]}
+
+[6] @view-transition {navigation: auto;types: OutIn}
+
+[7] Better Reading Instruction
+
+[8] with Dr. Jan Richardson
+
+[9] Guided Reading and Reading Science
+
+[10] Next Steps/Science of Reading
+
+[11] JACK HARTMANN/JAN RICHARDSON
+
+[12] JAN'S PRODUCTS
+
+[13] COMMON CORE STANDARDS
+
+[14] LITERACY CONSULTANTS
+
+[15] SUCCESS STORIES
+
+[16] New Routine for teaching sight word
+
+[17] What’s Missing? (map the word)
+
+[18] Mix and Fix (build the word)
+
+[19] Table Writing (trace the word)
+
+[20] Write and Retrieve (write
+
+[21] Supporting Orthographic
+
+[22] Mapping of Words
+
+[23] #comp-lms8pti3 svg [data-color="1"] {fill: #000000;}
+
+[24] Small Group Reading Instruction
+
+[25] Here is a link for a wide variety of free resources
+
+[26] for small group reading instruction,
+
+[27] including over 200 videos.
+
+[28] https://www.literacyfootprints.com/resource-center
+
+[29] small group reading instruction, the following resources are available for purchase from Scholastic.
+
+[30] Next Step Guided Reading in Action: Grades K-2
+
+[31] Model Lessons Featuring Jan Richardson
+
+[32] Watch America’s favorite teacher of guided reading, Jan Richardson, lead targeted lessons that accelerate reading growth for K–2 students. Jan demonstrates exactly how to plan, teach, check for understanding, and reteach. An easy-to-use View & Do guide helps teachers put what they’ve seen right into action. Covers emergent, early, and transitional levels!
+
+[33] Next Step Guided Reading in Action: Grades 3 & Up
+
+[34] Watch America’s favorite teacher of guided reading, Jan Richardson, lead targeted lessons that accelerate the growth of transitional and fluent readers in grade 3 and higher. Jan demonstrates exactly how to plan, teach, check for understanding, and reteach. An easy-to-use View & Do guide helps teachers put what they’ve seen right into action. Covers transitional and fluent levels.
+
+[35] Teaching Word Study
+
+[36] New Making Words Routine
+
+[37] Sorting Initial Blends - Level E
+
+[38] Analogy Chart - Doubling Consonant
+
+[39] Making Words - Level D Digraphs
+
+[40] Teaching Fluent Readers Remotely
+
+[41] Reading the book using the
+
+[42] Yellow Questions strategy
+
+[43] Reread the book using the Key Word summary strategy
+
+[44] Word Study - this could be added to one of the lessons above
+
+[45] Virtual Book Clubs
+
+[46] Student Performance of
+
+[47] "The Punctuation Rap,"
+
+[48] written by Jan Richardson
+
+[49] Interview About Guided Reading
+
+[50] In Kindergarten
+
+[51] {"data":{"site":{"metaSiteId":"02517805-8510-4d76-8cc1-a21d9ba7b354","userId":"7e0b43a3-a9b6-4cde-b80d-700ade165575","siteId":"f5bf71b1-647a-47fe-8f91-c63d0b50b7c4","externalBaseUrl":"https:\/\/www.janrichardsonreading.com","siteRevision":2458,"siteType":"UGC","dc":"uw2-pub-1","isResponsive":false,"editorName":"Unknown","sessionId":"cd755ae1-867f-4021-875b-4110f31f4255","isSEO":false,"appNameForBiEvents":"thunderbolt"},"rollout":{"siteAssetsVersionsRollout":false,"isDACRollout":0,"isTBRollout":true},"fleetConfig":{"fleetName":"thunderbolt-renderer-gradual","type":"Rollout","code":1},"requestUrl":"https:\/\/www.janrichardsonreading.com\/copy-of-success-stories","isInSEO":false,"platformOnSite":true,"adjustForPrerenderActivation":true}}
+
+[52] =0&&T.threshold
+
+[53] (l+=e+t,e+t));if(l
+
+[54] {let n=`${e+C+r}label`;l=Math.max(t.labels[n].width,l)});((e,t,i,n)=>{let{hoverState:a}=t;if("-1"!==a){let{menuItemIds:o}=t,s=o.indexOf(a);if(r(t.hoverState)||a===O){if(!t.realWidths)return;let a=Math.max(n,t.children[-1!==s?e+s:e+O].width),o=Math.max(n,t.children[`${e}dropWrapper`].width),l=(0!==t.moreSubItem.length?t.labels[`${t.moreSubItem[0]}label`].lineHeight:0)+15+t.menuBorderY+t.labelPad+t.menuButtonBorder;t.moreSubItem.forEach(e=>{p(i[e],{minWidth:`${a}px`}),p(i[`${e}label`],{minWidth:"0px",lineHeight:`${l}px`})});let h=r(t.hoverState)?t.hoverState:"__more__",c={width:t.children[e+h].width,left:t.children[e+h].left},d=((e,t,i,r,n)=>{let{width:a,height:o,alignButtons:s,hoverListPosition:l,menuItemContainerExtraPixels:h}=t,c=t.absoluteLeft,d=((e,t,i,r,n,a,o,s,l,h)=>{let c="0px",d="auto",u=a.left,m=a.width;if("left"===t?c="left"===n?0:`${u+e.left}px`:"right"===t?(d="right"===n?0:`${r-u-m-e.right}px`,c="auto"):"left"===n?c=`${u+(m+e.left-i)/2}px`:"right"===n?(c="auto",d=`${(m+e.right-(i+e.width))/2}px`):c=`${e.left+u+(m-(i+e.width))/2}px`,"auto"!==c){let e=o+parseInt(c,10);e+h>l?(c="auto",d=0):c=e
+
+[55] l?0:d),{moreContainerLeft:c,moreContainerRight:d}})(h,s,r,a,l,i,c,c+a,t.bodyClientWidth,n);return{left:d.moreContainerLeft,right:d.moreContainerRight,top:t.needToOpenMenuUp?"auto":`${o}px`,bottom:t.needToOpenMenuUp?`${o}px`:"auto"}})(0,t,c,a,o);p(i[`${e}${C}`],{left:d.left,right:d.right}),p(i[`${e}dropWrapper`],{left:d.left,right:d.right,top:d.top,bottom:d.bottom})}}})(e,t,i,l),t.originalGapBetweenTextAndBtn&&s.forEach(r=>{t.hasOriginalGapData[r]||_(i[`${e}${r}`],{originalGapBetweenTextAndBtn:t.originalGapBetweenTextAndBtn[`${e}${r}`]})}),((e,t,i,r)=>{let{realWidths:n,height:a,menuItemContainerExtraPixels:o}=i,s=0,l=null,h=null,c=i.lineHeight,d=a-o.height;for(let a=0;a
+
+[56] 0&&o[o.length-1])||6!==c[0]&&2!==c[0])){u=0;continue}if(3===c[0]&&(!o||c[1]>o[0]&&c[1]
+
+[57] {"platform":{"ssrPropsUpdates":[],"ssrStyleUpdates":[],"ssrStructureUpdates":[]},"pages":{"compIdToTypeMap":{"comp-kdt3lhpz":"WRichText","masterPage":"MasterPage","SITE_HEADER":"HeaderContainer","SITE_FOOTER":"FooterContainer","PAGES_CONTAINER":"PagesContainer","comp-k8we6k45":"StripColumnsContainer","SITE_PAGES":"PageGroup","comp-k8we6kjx":"Column","BACKGROUND_GROUP":"BackgroundGroup","SCROLL_TO_TOP":"Anchor","SCROLL_TO_BOTTOM":"Anchor","SKIP_TO_CONTENT_BTN":"SkipToContentButton","comp-k8xogfpb":"VerticalMenu","comp-lj8t84pk":"WRichText","comp-kt7p7ydw":"FiveGridLine","comp-kt7zb50n":"FiveGridLine","comp-kt7znw1r":"VideoPlayer","comp-lms8zso4":"WRichText","comp-lmsam1br":"FiveGridLine","comp-lms8zewb":"WPhoto","comp-lmsaetqd":"WRichText","comp-lms8wqny":"WRichText","comp-lms8viji":"WPhoto","comp-kt7o0bat":"WRichText","comp-kt7ov1lr":"FiveGridLine","comp-kt7ovp24":"WRichText","comp-kt7owrqh":"WPhoto","comp-kt7owrqo":"SiteButton","comp-kt7owrqu":"WRichText","comp-kt7owrr0":"WPhoto","comp-kt7owrr6":"SiteButton","comp-kt7owrrb":"WRichText","comp-lj8x9aue":"WRichText","comp-lj8tbq8n":"VideoPlayer","comp-lj8x9wno":"WRichText","comp-kt7yt6e7":"VideoPlayer","comp-lj8x9xhy":"WRichText","comp-kt7yyquv":"VideoPlayer","comp-lj8x9vco":"WRichText","comp-kt7yzn2x":"VideoPlayer","comp-k97ezqcv":"WRichText","comp-k97f26r3":"WRichText","comp-k97estlv":"VideoPlayer","comp-k97f4y68":"WRichText","comp-k97emdjm":"VideoPlayer","comp-k97f4l8a":"WRichText","comp-k97eqw2r":"VideoPlayer","comp-k97f56o6":"WRichText","comp-k97eixv3":"VideoPlayer","comp-is0ue3wa":"FiveGridLine","comp-k97fc517":"WRichText","comp-kad1s23i":"VideoPlayer","comp-k97evtct":"VideoPlayer","comp-k97eyad1":"FiveGridLine","comp-is0ue3wc":"WRichText","comp-is0u5u7a":"FiveGridLine","comp-is0rhw7x":"WRichText","comp-ke7o0lxs":"VideoPlayer","comp-kt7vj2nq":"FiveGridLine","comp-k8xe4jw8":"WRichText","comp-lms8pti3":"MediaOverlayControls","comp-lms8ptid":"MediaControls","pageBackground_wn5h6":"PageBackground","VideoBox_dummy_comp-lms8ptf7":"VideoBox","wn5h6":"Page","comp-l6y4id7p":"ClassicSection","comp-l6y4id7p1":"ClassicSection","comp-l6y4id7q":"ClassicSection","comp-l6y4id7q1":"ClassicSection","comp-l6y4id7q2":"ClassicSection","comp-l6y4id7q3":"ClassicSection","comp-k8xe3mtg":"StripColumnsContainer","comp-lmsab7lg":"Container","comp-lms8fsun":"Group","comp-kt7pmsee":"Group","comp-lj8xdn6u":"Group","comp-lj8xd9pc":"Group","comp-lj8xe0v2":"Group","comp-lj8xewax":"Group","comp-kt7p0mhu":"Group","comp-kt7z3ew4":"Group","comp-k8xe3n0e":"Column","comp-lms8ptf7":"MediaPlayer","Containerwn5h6":"Group","DYNAMIC_STRUCTURE_CONTAINER":"DynamicStructureContainer","site-root":"DivWithChildren","main_MF":"DivWithChildren","wn5h6_wrapper":"PageMountUnmount","wn5h6_wrapper_background":"PageMountUnmount"}},"appsWarmupData":{},"ooi":{"failedInSsr":{}}}
+
+[58] LITERACY TIPS
+
+[59] CONFERENCES/WEBINARS
+
+[60] VIDEO CLIPS
+
+[61] RISE RESOURCES
+
+[62] Remove the POWr logo from the bottom of your form.
+
+[63] Select from an email input, multiple choice, images, phone number, signature, file upload, text, checkbox, dropdown, and more!
+
+[64] The number of different forms you can add to one website.
+
+[65] Increase the number of form submissions you can receive on your form each month.
+
+[66] Select the number of people who receive email alerts every time someone completes your form.
+
+[67] Select your preferred payment provider from PayPal, Stripe (for credit cards) or send intructions for offline payments.
+
+[68] Allow users to upload files to your form, like images or PDFs.
+
+[69] See all of your form responses in your own personal dashboard and export them to CSV.
+
+[70] Show a message, redirect to another page, display submissions publicly or hide the form once somebody completes it.
+
+[71] Design your own customer confirmation email that gets sent automatically after someone completes your form.
+
+[72] Keep your forms short and smart with rules for which parts of your form to show based on a user's previous answers.
+
+[73] Sync all new form responses to Google Sheets in real time.
+

@@ -1,0 +1,84 @@
+PAGE: guided_reading_science
+Extracted text blocks: 40
+============================================================
+
+[1] {"fleetConfig":{"fleetName":"thunderbolt-isolated-renderer","type":"Rollout","code":1},"mode":{"qa":false,"enableTestApi":false,"debug":false,"ssrIndicator":false,"ssrOnly":false,"siteAssetsFallback":"enable","versionIndicator":false},"componentsLibrariesTopology":[{"artifactId":"editor-elements","namespace":"wixui","url":"https:\/\/static.parastorage.com\/services\/editor-elements\/1.14996.0"},{"artifactId":"editor-elements","namespace":"dsgnsys","url":"https:\/\/static.parastorage.com\/services\/editor-elements\/1.14996.0"}],"siteFeaturesConfigs":{"sessionManager":{"isRunningInDifferentSiteContext":false}},"language":{"userLanguage":"en"},"siteAssets":{"clientTopology":{"mediaRootUrl":"https:\/\/static.wixstatic.com","scriptsUrl":"static.parastorage.com","staticMediaUrl":"https:\/\/static.wixstatic.com\/media","moduleRepoUrl":"https:\/\/static.parastorage.com\/unpkg","fileRepoUrl":"https:\/\/static.parastorage.com\/services","viewerAppsUrl":"https:\/\/viewer-apps.parastorage.com","viewerAssetsUrl":"https:\/\/viewer-assets.parastorage.com","siteAssetsUrl":"https:\/\/siteassets.parastorage.com","pageJsonServerUrls":["https:\/\/pages.parastorage.com","https:\/\/staticorigin.wixstatic.com","https:\/\/www.janrichardsonreading.com","https:\/\/fallback.wix.com\/wix-html-editor-pages-webapp\/page"],"pathOfTBModulesInFileRepoForFallback":"wix-thunderbolt\/dist\/"}},"siteFeatures":["accessibilityBrowserZoom","appMonitoring","assetsLoader","businessLogger","captcha","clickHandlerRegistrar","commonConfig","componentsLoader","componentsRegistry","consentPolicy","contentReflow","cyclicTabbing","domSelectors","domStore","environmentWixCodeSdk","environment","locationWixCodeSdk","mpaNavigation","navigationManager","navigationPhases","ooi","pages","panorama","renderer","reporter","router","scrollRestoration","seoWixCodeSdk","seo","sessionManager","siteMembersWixCodeSdk","siteMembers","siteScrollBlocker","siteWixCodeSdk","speculationRules","ssrCache","stores","structureApi","thunderboltInitializer","tpaCommons","translations","usedPlatformApis","warmupData","windowMessageRegistrar","windowWixCodeSdk","wixCustomElementComponent","wixEmbedsApi","componentsReact","platform"],"site":{"externalBaseUrl":"https:\/\/www.janrichardsonreading.com","isSEO":false},"media":{"staticMediaUrl":"https:\/\/static.wixstatic.com\/media","mediaRootUrl":"https:\/\/static.wixstatic.com\/","staticVideoUrl":"https:\/\/video.wixstatic.com\/"},"requestUrl":"https:\/\/www.janrichardsonreading.com\/guided-reading-and-reading-science","rollout":{"siteAssetsVersionsRollout":false,"isDACRollout":0,"isTBRollout":true},"commonConfig":{"brand":"wix","host":"VIEWER","bsi":"","consentPolicy":{},"consentPolicyHeader":{},"siteRevision":"2458","renderingFlow":"NONE","language":"en","locale":"en-us"},"interactionSampleRatio":0.01,"accessTokensUrl":"https:\/\/www.janrichardsonreading.com\/_api\/v1\/access-tokens","experiments":{"specs.thunderbolt.hardenFetchAndXHR":true,"specs.thunderbolt.securityExperiments":true,"specs.thunderbolt.browserCacheReload":true,"specs.thunderbolt.addIdAsClassName":true,"specs.thunderbolt.adjustForPrerenderActivation":true}}
+
+[2] 
+
+[3] Guided Reading and Reading Science | jrreading
+
+[4] {"prefetch":[{"tag":"mpa-prefetch-moderate","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":"/guided-reading-and-reading-science"}}]},"eagerness":"moderate"}]}
+
+[5] @view-transition {navigation: auto;types: OutIn}
+
+[6] Better Reading Instruction
+
+[7] with Dr. Jan Richardson
+
+[8] Guided Reading and Reading Science
+
+[9] Next Steps/Science of Reading
+
+[10] JACK HARTMANN/JAN RICHARDSON
+
+[11] JAN'S PRODUCTS
+
+[12] COMMON CORE STANDARDS
+
+[13] LITERACY CONSULTANTS
+
+[14] SUCCESS STORIES
+
+[15] Please check out this
+
+[16] Guided Reading and
+
+[17] Reading Science
+
+[18] {"data":{"site":{"metaSiteId":"02517805-8510-4d76-8cc1-a21d9ba7b354","userId":"7e0b43a3-a9b6-4cde-b80d-700ade165575","siteId":"f5bf71b1-647a-47fe-8f91-c63d0b50b7c4","externalBaseUrl":"https:\/\/www.janrichardsonreading.com","siteRevision":2458,"siteType":"UGC","dc":"uw2-pub-1","isResponsive":false,"editorName":"Unknown","sessionId":"2e4c0373-3ade-47cd-a15b-6e35bdcd04a0","isSEO":false,"appNameForBiEvents":"thunderbolt"},"rollout":{"siteAssetsVersionsRollout":false,"isDACRollout":0,"isTBRollout":true},"fleetConfig":{"fleetName":"thunderbolt-isolated-renderer","type":"Rollout","code":1},"requestUrl":"https:\/\/www.janrichardsonreading.com\/guided-reading-and-reading-science","isInSEO":false,"platformOnSite":true,"adjustForPrerenderActivation":true}}
+
+[19] =0&&T.threshold
+
+[20] (l+=e+t,e+t));if(l
+
+[21] {let n=`${e+C+r}label`;l=Math.max(t.labels[n].width,l)});((e,t,i,n)=>{let{hoverState:a}=t;if("-1"!==a){let{menuItemIds:o}=t,s=o.indexOf(a);if(r(t.hoverState)||a===O){if(!t.realWidths)return;let a=Math.max(n,t.children[-1!==s?e+s:e+O].width),o=Math.max(n,t.children[`${e}dropWrapper`].width),l=(0!==t.moreSubItem.length?t.labels[`${t.moreSubItem[0]}label`].lineHeight:0)+15+t.menuBorderY+t.labelPad+t.menuButtonBorder;t.moreSubItem.forEach(e=>{p(i[e],{minWidth:`${a}px`}),p(i[`${e}label`],{minWidth:"0px",lineHeight:`${l}px`})});let h=r(t.hoverState)?t.hoverState:"__more__",c={width:t.children[e+h].width,left:t.children[e+h].left},d=((e,t,i,r,n)=>{let{width:a,height:o,alignButtons:s,hoverListPosition:l,menuItemContainerExtraPixels:h}=t,c=t.absoluteLeft,d=((e,t,i,r,n,a,o,s,l,h)=>{let c="0px",d="auto",u=a.left,m=a.width;if("left"===t?c="left"===n?0:`${u+e.left}px`:"right"===t?(d="right"===n?0:`${r-u-m-e.right}px`,c="auto"):"left"===n?c=`${u+(m+e.left-i)/2}px`:"right"===n?(c="auto",d=`${(m+e.right-(i+e.width))/2}px`):c=`${e.left+u+(m-(i+e.width))/2}px`,"auto"!==c){let e=o+parseInt(c,10);e+h>l?(c="auto",d=0):c=e
+
+[22] l?0:d),{moreContainerLeft:c,moreContainerRight:d}})(h,s,r,a,l,i,c,c+a,t.bodyClientWidth,n);return{left:d.moreContainerLeft,right:d.moreContainerRight,top:t.needToOpenMenuUp?"auto":`${o}px`,bottom:t.needToOpenMenuUp?`${o}px`:"auto"}})(0,t,c,a,o);p(i[`${e}${C}`],{left:d.left,right:d.right}),p(i[`${e}dropWrapper`],{left:d.left,right:d.right,top:d.top,bottom:d.bottom})}}})(e,t,i,l),t.originalGapBetweenTextAndBtn&&s.forEach(r=>{t.hasOriginalGapData[r]||_(i[`${e}${r}`],{originalGapBetweenTextAndBtn:t.originalGapBetweenTextAndBtn[`${e}${r}`]})}),((e,t,i,r)=>{let{realWidths:n,height:a,menuItemContainerExtraPixels:o}=i,s=0,l=null,h=null,c=i.lineHeight,d=a-o.height;for(let a=0;a
+
+[23] 0&&o[o.length-1])||6!==c[0]&&2!==c[0])){u=0;continue}if(3===c[0]&&(!o||c[1]>o[0]&&c[1]
+
+[24] {"platform":{"ssrPropsUpdates":[],"ssrStyleUpdates":[],"ssrStructureUpdates":[]},"pages":{"compIdToTypeMap":{"comp-kdt3lhpz":"WRichText","masterPage":"MasterPage","SITE_HEADER":"HeaderContainer","SITE_FOOTER":"FooterContainer","PAGES_CONTAINER":"PagesContainer","comp-k8we6k45":"StripColumnsContainer","SITE_PAGES":"PageGroup","comp-k8we6kjx":"Column","BACKGROUND_GROUP":"BackgroundGroup","SCROLL_TO_TOP":"Anchor","SCROLL_TO_BOTTOM":"Anchor","SKIP_TO_CONTENT_BTN":"SkipToContentButton","comp-lgyglj54":"VerticalMenu","comp-lkfky0nx":"WPhoto","comp-lgyfcqs2":"WRichText","pageBackground_x5v1e":"PageBackground","x5v1e":"Page","comp-lgyfa575":"ClassicSection","comp-lkfz011m":"Group","comp-lkfyyft9":"Container","Containerx5v1e":"Group","DYNAMIC_STRUCTURE_CONTAINER":"DynamicStructureContainer","site-root":"DivWithChildren","main_MF":"DivWithChildren","x5v1e_wrapper":"PageMountUnmount","x5v1e_wrapper_background":"PageMountUnmount"}},"appsWarmupData":{},"ooi":{"failedInSsr":{}}}
+
+[25] LITERACY TIPS
+
+[26] CONFERENCES/WEBINARS
+
+[27] VIDEO CLIPS
+
+[28] RISE RESOURCES
+
+[29] Remove the POWr logo from the bottom of your form.
+
+[30] Select from an email input, multiple choice, images, phone number, signature, file upload, text, checkbox, dropdown, and more!
+
+[31] The number of different forms you can add to one website.
+
+[32] Increase the number of form submissions you can receive on your form each month.
+
+[33] Select the number of people who receive email alerts every time someone completes your form.
+
+[34] Select your preferred payment provider from PayPal, Stripe (for credit cards) or send intructions for offline payments.
+
+[35] Allow users to upload files to your form, like images or PDFs.
+
+[36] See all of your form responses in your own personal dashboard and export them to CSV.
+
+[37] Show a message, redirect to another page, display submissions publicly or hide the form once somebody completes it.
+
+[38] Design your own customer confirmation email that gets sent automatically after someone completes your form.
+
+[39] Keep your forms short and smart with rules for which parts of your form to show based on a user's previous answers.
+
+[40] Sync all new form responses to Google Sheets in real time.
+

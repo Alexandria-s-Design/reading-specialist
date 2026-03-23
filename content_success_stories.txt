@@ -1,0 +1,92 @@
+PAGE: success_stories
+Extracted text blocks: 44
+============================================================
+
+[1] {"fleetConfig":{"fleetName":"thunderbolt-renderer-gradual","type":"Rollout","code":1},"mode":{"qa":false,"enableTestApi":false,"debug":false,"ssrIndicator":false,"ssrOnly":false,"siteAssetsFallback":"enable","versionIndicator":false},"componentsLibrariesTopology":[{"artifactId":"editor-elements","namespace":"wixui","url":"https:\/\/static.parastorage.com\/services\/editor-elements\/1.14996.0"},{"artifactId":"editor-elements","namespace":"dsgnsys","url":"https:\/\/static.parastorage.com\/services\/editor-elements\/1.14996.0"}],"siteFeaturesConfigs":{"sessionManager":{"isRunningInDifferentSiteContext":false}},"language":{"userLanguage":"en"},"siteAssets":{"clientTopology":{"mediaRootUrl":"https:\/\/static.wixstatic.com","scriptsUrl":"static.parastorage.com","staticMediaUrl":"https:\/\/static.wixstatic.com\/media","moduleRepoUrl":"https:\/\/static.parastorage.com\/unpkg","fileRepoUrl":"https:\/\/static.parastorage.com\/services","viewerAppsUrl":"https:\/\/viewer-apps.parastorage.com","viewerAssetsUrl":"https:\/\/viewer-assets.parastorage.com","siteAssetsUrl":"https:\/\/siteassets.parastorage.com","pageJsonServerUrls":["https:\/\/pages.parastorage.com","https:\/\/staticorigin.wixstatic.com","https:\/\/www.janrichardsonreading.com","https:\/\/fallback.wix.com\/wix-html-editor-pages-webapp\/page"],"pathOfTBModulesInFileRepoForFallback":"wix-thunderbolt\/dist\/"}},"siteFeatures":["accessibilityBrowserZoom","appMonitoring","assetsLoader","businessLogger","captcha","clickHandlerRegistrar","commonConfig","componentsLoader","componentsRegistry","consentPolicy","contentReflow","cyclicTabbing","domSelectors","domStore","environmentWixCodeSdk","environment","locationWixCodeSdk","mpaNavigation","navigationManager","navigationPhases","ooi","pages","panorama","renderer","reporter","router","scrollRestoration","seoWixCodeSdk","seo","sessionManager","siteMembersWixCodeSdk","siteMembers","siteScrollBlocker","siteWixCodeSdk","speculationRules","ssrCache","stores","structureApi","thunderboltInitializer","tpaCommons","translations","usedPlatformApis","warmupData","windowMessageRegistrar","windowWixCodeSdk","wixCustomElementComponent","wixEmbedsApi","componentsReact","platform"],"site":{"externalBaseUrl":"https:\/\/www.janrichardsonreading.com","isSEO":false},"media":{"staticMediaUrl":"https:\/\/static.wixstatic.com\/media","mediaRootUrl":"https:\/\/static.wixstatic.com\/","staticVideoUrl":"https:\/\/video.wixstatic.com\/"},"requestUrl":"https:\/\/www.janrichardsonreading.com\/success-stories","rollout":{"siteAssetsVersionsRollout":false,"isDACRollout":0,"isTBRollout":true},"commonConfig":{"brand":"wix","host":"VIEWER","bsi":"","consentPolicy":{},"consentPolicyHeader":{},"siteRevision":"2458","renderingFlow":"NONE","language":"en","locale":"en-us"},"interactionSampleRatio":0.01,"accessTokensUrl":"https:\/\/www.janrichardsonreading.com\/_api\/v1\/access-tokens","experiments":{"specs.thunderbolt.hardenFetchAndXHR":true,"specs.thunderbolt.securityExperiments":true,"specs.thunderbolt.browserCacheReload":true,"specs.thunderbolt.addIdAsClassName":true,"specs.thunderbolt.adjustForPrerenderActivation":true}}
+
+[2] 
+
+[3] SUCCESS STORIES | jrreading
+
+[4] {"prefetch":[{"tag":"mpa-prefetch-moderate","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":"/success-stories"}}]},"eagerness":"moderate"}]}
+
+[5] @view-transition {navigation: auto;types: OutIn}
+
+[6] Better Reading Instruction
+
+[7] with Dr. Jan Richardson
+
+[8] SUCCESS STORIES
+
+[9] Guided Reading and Reading Science
+
+[10] Next Steps/Science of Reading
+
+[11] JACK HARTMANN/JAN RICHARDSON
+
+[12] JAN'S PRODUCTS
+
+[13] COMMON CORE STANDARDS
+
+[14] LITERACY CONSULTANTS
+
+[15] “The Next Step Forward in Guided Reading should be required reading for any K-8 teacher striving to accelerate student success. Dr. Richardson’s practical, thoughtful, and research-based work has transformed the practice of thousands of educators. Her literacy framework has and will continue to provide a clear guide to ensure teachers are building on students' strengths and making daily instructional decisions in the best interest of their students. Her expertise is second to none.”
+
+[16] Assistant Superintendent, C
+
+[17] Unit #4 Schools, IL
+
+[18] “As the literacy leader at my school, I asked colleagues to join me in implementing the ideas in The Next Step Forward in Guided Reading. The results have been amazing. Guided reading instruction is no longer a puzzle. Teachers are thrilled with the clarity and pragmatic shifts in their practice. This book is a must-have for any teacher of reading."
+
+[19] Reading Specialist, Fairfax County
+
+[20] Public Schools, VA
+
+[21] Chief Academic Officer, Hamilton County, Chattanooga, TN
+
+[22] {"data":{"site":{"metaSiteId":"02517805-8510-4d76-8cc1-a21d9ba7b354","userId":"7e0b43a3-a9b6-4cde-b80d-700ade165575","siteId":"f5bf71b1-647a-47fe-8f91-c63d0b50b7c4","externalBaseUrl":"https:\/\/www.janrichardsonreading.com","siteRevision":2458,"siteType":"UGC","dc":"uw2-pub-1","isResponsive":false,"editorName":"Unknown","sessionId":"6f6f4158-84c0-407a-bfd5-de4b1f471b76","isSEO":false,"appNameForBiEvents":"thunderbolt"},"rollout":{"siteAssetsVersionsRollout":false,"isDACRollout":0,"isTBRollout":true},"fleetConfig":{"fleetName":"thunderbolt-renderer-gradual","type":"Rollout","code":1},"requestUrl":"https:\/\/www.janrichardsonreading.com\/success-stories","isInSEO":false,"platformOnSite":true,"adjustForPrerenderActivation":true}}
+
+[23] =0&&T.threshold
+
+[24] (l+=e+t,e+t));if(l
+
+[25] {let n=`${e+C+r}label`;l=Math.max(t.labels[n].width,l)});((e,t,i,n)=>{let{hoverState:a}=t;if("-1"!==a){let{menuItemIds:o}=t,s=o.indexOf(a);if(r(t.hoverState)||a===O){if(!t.realWidths)return;let a=Math.max(n,t.children[-1!==s?e+s:e+O].width),o=Math.max(n,t.children[`${e}dropWrapper`].width),l=(0!==t.moreSubItem.length?t.labels[`${t.moreSubItem[0]}label`].lineHeight:0)+15+t.menuBorderY+t.labelPad+t.menuButtonBorder;t.moreSubItem.forEach(e=>{p(i[e],{minWidth:`${a}px`}),p(i[`${e}label`],{minWidth:"0px",lineHeight:`${l}px`})});let h=r(t.hoverState)?t.hoverState:"__more__",c={width:t.children[e+h].width,left:t.children[e+h].left},d=((e,t,i,r,n)=>{let{width:a,height:o,alignButtons:s,hoverListPosition:l,menuItemContainerExtraPixels:h}=t,c=t.absoluteLeft,d=((e,t,i,r,n,a,o,s,l,h)=>{let c="0px",d="auto",u=a.left,m=a.width;if("left"===t?c="left"===n?0:`${u+e.left}px`:"right"===t?(d="right"===n?0:`${r-u-m-e.right}px`,c="auto"):"left"===n?c=`${u+(m+e.left-i)/2}px`:"right"===n?(c="auto",d=`${(m+e.right-(i+e.width))/2}px`):c=`${e.left+u+(m-(i+e.width))/2}px`,"auto"!==c){let e=o+parseInt(c,10);e+h>l?(c="auto",d=0):c=e
+
+[26] l?0:d),{moreContainerLeft:c,moreContainerRight:d}})(h,s,r,a,l,i,c,c+a,t.bodyClientWidth,n);return{left:d.moreContainerLeft,right:d.moreContainerRight,top:t.needToOpenMenuUp?"auto":`${o}px`,bottom:t.needToOpenMenuUp?`${o}px`:"auto"}})(0,t,c,a,o);p(i[`${e}${C}`],{left:d.left,right:d.right}),p(i[`${e}dropWrapper`],{left:d.left,right:d.right,top:d.top,bottom:d.bottom})}}})(e,t,i,l),t.originalGapBetweenTextAndBtn&&s.forEach(r=>{t.hasOriginalGapData[r]||_(i[`${e}${r}`],{originalGapBetweenTextAndBtn:t.originalGapBetweenTextAndBtn[`${e}${r}`]})}),((e,t,i,r)=>{let{realWidths:n,height:a,menuItemContainerExtraPixels:o}=i,s=0,l=null,h=null,c=i.lineHeight,d=a-o.height;for(let a=0;a
+
+[27] 0&&o[o.length-1])||6!==c[0]&&2!==c[0])){u=0;continue}if(3===c[0]&&(!o||c[1]>o[0]&&c[1]
+
+[28] {"platform":{"ssrPropsUpdates":[],"ssrStyleUpdates":[],"ssrStructureUpdates":[]},"pages":{"compIdToTypeMap":{"comp-kdt3lhpz":"WRichText","masterPage":"MasterPage","SITE_HEADER":"HeaderContainer","SITE_FOOTER":"FooterContainer","PAGES_CONTAINER":"PagesContainer","comp-k8we6k45":"StripColumnsContainer","SITE_PAGES":"PageGroup","comp-k8we6kjx":"Column","BACKGROUND_GROUP":"BackgroundGroup","SCROLL_TO_TOP":"Anchor","SCROLL_TO_BOTTOM":"Anchor","SKIP_TO_CONTENT_BTN":"SkipToContentButton","comp-k8xogppr":"VerticalMenu","WRchTxt0-10fi":"WRichText","comp-kd3gfzco":"WPhoto","FvGrdLn1-2jc":"FiveGridLine","comp-irwyzts9":"WRichText","comp-kd3gelpf":"WPhoto","comp-irwyzts7":"FiveGridLine","comp-irwz4szc":"WRichText","comp-kd3g9ov3":"WPhoto","comp-k8xe7q31":"WRichText","pageBackground_cfvg":"PageBackground","cfvg":"Page","comp-l6y4id4k":"ClassicSection","comp-l6y4id4l":"ClassicSection","comp-l6y4id4l1":"ClassicSection","comp-k8xe5pcv":"StripColumnsContainer","comp-k8xe5phz":"Column","Containercfvg":"Group","DYNAMIC_STRUCTURE_CONTAINER":"DynamicStructureContainer","site-root":"DivWithChildren","main_MF":"DivWithChildren","cfvg_wrapper":"PageMountUnmount","cfvg_wrapper_background":"PageMountUnmount"}},"appsWarmupData":{},"ooi":{"failedInSsr":{}}}
+
+[29] LITERACY TIPS
+
+[30] CONFERENCES/WEBINARS
+
+[31] VIDEO CLIPS
+
+[32] RISE RESOURCES
+
+[33] Remove the POWr logo from the bottom of your form.
+
+[34] Select from an email input, multiple choice, images, phone number, signature, file upload, text, checkbox, dropdown, and more!
+
+[35] The number of different forms you can add to one website.
+
+[36] Increase the number of form submissions you can receive on your form each month.
+
+[37] Select the number of people who receive email alerts every time someone completes your form.
+
+[38] Select your preferred payment provider from PayPal, Stripe (for credit cards) or send intructions for offline payments.
+
+[39] Allow users to upload files to your form, like images or PDFs.
+
+[40] See all of your form responses in your own personal dashboard and export them to CSV.
+
+[41] Show a message, redirect to another page, display submissions publicly or hide the form once somebody completes it.
+
+[42] Design your own customer confirmation email that gets sent automatically after someone completes your form.
+
+[43] Keep your forms short and smart with rules for which parts of your form to show based on a user's previous answers.
+
+[44] Sync all new form responses to Google Sheets in real time.
+
