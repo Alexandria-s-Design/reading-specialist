@@ -1,0 +1,11 @@
+# Videos too large for GitHub - keep local only
+videos/*.mp4
+videos/*.webm
+videos/*.mkv
+
+# Raw HTML scrapes (large, keep locally)
+scrape_*.html
+
+# Python cache
+__pycache__/
+*.pyc
