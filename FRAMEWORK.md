@@ -2,7 +2,7 @@
 
 *By Dr. Marie Martin, Ed.D. (USC)*
 *Field-tested in Abu Dhabi (UAE) and California (USA)*
-*Grades K-3 | ELL-Integrated | Science of Reading Aligned*
+*Grades K-3 | ELL-Integrated | Science of Reading Aligned | Biliteracy Framework Embedded*
 
 ---
 
@@ -42,6 +42,8 @@ This is not theory. This happened in real classrooms in Abu Dhabi and in US publ
 
 ### Day 1 / Week 1: Name Phonics
 
+> **Biliteracy Connection (Cummins):** Starting with students' names affirms identity and validates their full linguistic self. Cummins' research shows that identity affirmation is a prerequisite for language learning. A student whose name and language are celebrated will learn faster than one whose home language is ignored.
+
 Before touching a single Jolly Phonics sound, students learn the sounds in their own names. Their name is the most important word in the world.
 
 **Procedure:**
@@ -60,6 +62,7 @@ Before touching a single Jolly Phonics sound, students learn the sounds in their
 - Connects abstract phonics to personal identity
 - Introduces phonics concepts (digraphs, silent e, long vowels) as exciting discoveries, not confusing rules
 - Students remember their name's "secret" and become curious about other secrets in English
+- For ELLs: the name bridge connects home language sounds to English sounds (Escamilla's "Bridge" technique). Example: "Your name is /Muhammad/. In Arabic, that /m/ sound is the same as in English! Your languages share that sound."
 
 ### Jolly Phonics Sound Sequence
 
@@ -95,6 +98,8 @@ A classroom display where every learned sound is posted and visible. Updated dai
 
 ### Begin Blending IMMEDIATELY
 
+> **Biliteracy Connection (Krashen):** Blending immediately provides comprehensible input at i+1. Students already know the individual sounds (i). Combining them into words is the next step (+1). The affective filter stays low because students are working with sounds they already mastered on the automaticity cards.
+
 Do not wait until all sounds are taught to start blending. After Group 1 (SATIPN, 6 sounds), students begin blending CVC words the same day or the next day.
 
 **Smooth Blending Technique:**
@@ -108,6 +113,8 @@ Do not wait until all sounds are taught to start blending. After Group 1 (SATIPN
 ## Phase 2: Blending and CVC Mastery
 
 ### The Automaticity Card System
+
+> **Biliteracy Connection (Ehri + Cummins):** The automaticity cards move students through Ehri's phases of word reading (partial alphabetic to full alphabetic to consolidated). Because decoding is a transferable skill (Cummins' CUP), students who build automaticity in English phonics can transfer that decoding ability to their home language and vice versa. A Spanish-speaking student who masters blending in English can apply the same blending strategy to Spanish words.
 
 Marie's original creation (By Alexandria's World). A 3-card timed progression system aligned to each Jolly Phonics book.
 
@@ -223,6 +230,8 @@ Actual reading instruction happens in **small groups** formed by assessment:
 
 ### Informational Text First
 
+> **Biliteracy Connection (Goldenberg + Cummins' Quadrant):** Informational text is context-embedded and cognitively accessible, placing it in the ideal quadrant for ELLs. The content connects to real-world knowledge that students already have in their home language. A student who knows about rain in Arabic can leverage that background knowledge when reading about weather in English. This is Cummins' CUP in action: conceptual knowledge transfers.
+
 Marie starts guided reading with **informational/nonfiction text** before narratives. Reasons:
 - The content is real life and connects to students' experiences
 - The language is concrete and direct
@@ -289,6 +298,16 @@ The Books 4-7 and Long Vowel cards extend the same 3-card system:
 
 ## ELL Track (Parallel Throughout)
 
+> **Biliteracy Frameworks Active in This Track:**
+> - **Krashen:** Comprehensible input (i+1) through graded sentence patterns. Low affective filter through songs and games.
+> - **Cummins:** Building BICS through structured oral language. Additive bilingualism (L2 added, L1 maintained).
+> - **Garcia:** Translanguaging allowed and encouraged. Students process in L1 while producing in L2.
+> - **SIOP:** Every activity has both a content objective and a language objective.
+> - **GLAD:** Chants, songs, sentence patterning, pictorial input, cooperative structures.
+> - **Collier & Thomas:** All four Prism dimensions addressed (sociocultural, linguistic, academic, cognitive).
+> - **Wong Fillmore:** Home language protected. Parents encouraged to maintain L1 at home.
+> - **Escamilla:** "The Bridge" used to make cross-language connections explicit.
+
 ### Genki English for Oral Language
 
 Marie used Genki English to teach ELLs to speak in common phrases. The pacing progressed as students gained confidence:
@@ -320,6 +339,18 @@ Total Physical Response was used from day one to build receptive language:
 
 **Marie's approach:** "We had SO much fun. I brought that back from the UAE to the US and taught my Kindergarteners. All my English Learners were doing well in my class and many times were sometimes ahead of my English native students."
 
+### Protecting the Home Language
+
+> **Critical Warning (Wong Fillmore, UC Berkeley):** Children can lose their home language within 2-3 years of English-only schooling. This damages family communication, cultural identity, and the cognitive advantages of bilingualism.
+
+**What to do:**
+- NEVER tell parents to "speak only English at home"
+- Encourage parents to read to children in their home language
+- Allow students to discuss with partners in their home language during reading activities (this IS translanguaging, and it deepens comprehension)
+- Include bilingual books in the classroom library
+- Celebrate multilingualism: "How many languages do we speak in our class?"
+- Frame bilingualism as a path to the **Seal of Biliteracy** (a state-recognized diploma credential in 49+ states)
+
 ### Why ELLs Sometimes Outpace Native Speakers
 
 The structured, systematic approach actually gives ELLs an advantage:
@@ -331,6 +362,8 @@ The structured, systematic approach actually gives ELLs an advantage:
 ---
 
 ## Comprehension Strategies
+
+> **Biliteracy Connection (Snow, Carlo):** Catherine Snow's research at Harvard shows that oral language proficiency in BOTH languages predicts reading comprehension from grade 3 onward. Maria Carlo's research shows that explicitly teaching cognates (family/familia, important/importante) accelerates vocabulary growth for bilingual students. During comprehension activities, use translanguaging: let students discuss in their home language first, then produce in English. This deepens comprehension rather than limiting it.
 
 ### When Comprehension Instruction Begins
 
@@ -442,6 +475,7 @@ Students generate Who/What/Where/When/Why/How questions about a text before, dur
 
 This framework draws from and aligns with:
 
+**Science of Reading:**
 - **National Reading Panel** (2000): All five pillars explicitly addressed
 - **Scarborough's Reading Rope** (2001): Both word recognition and language comprehension strands developed
 - **Ehri's Phases of Word Reading**: Automaticity cards move students through partial to full to consolidated alphabetic phases
@@ -449,6 +483,20 @@ This framework draws from and aligns with:
 - **Jan Richardson's research**: RISE intervention data shows 3x expected reading gains across 1,814 students
 - **TPR research (Asher)**: Reduced anxiety, better vocabulary retention, higher engagement
 - **Genki English**: Aligned with comprehensible input theory (Krashen) and communicative language teaching
+
+**Biliteracy & ELL Research:**
+- **Cummins (BICS/CALP, CUP)**: Academic English takes 5-7 years. Literacy skills transfer across languages through shared cognitive foundations. Name phonics and identity affirmation are prerequisites for language learning.
+- **Krashen (Comprehensible Input, Affective Filter)**: Language acquired through meaningful input at i+1. Low-anxiety environments (songs, games, movement) accelerate acquisition.
+- **Garcia (Translanguaging)**: Bilinguals have one integrated system. Allowing home language use during reading activities deepens comprehension.
+- **Escamilla (Literacy Squared, "The Bridge")**: Simultaneous biliteracy from Kindergarten. Explicit cross-language connections accelerate both languages.
+- **Hornberger (Continua of Biliteracy)**: Build from oral, contextualized, minority language toward written, decontextualized, majority language.
+- **Collier & Thomas (Prism Model)**: Only dual language programs fully close the achievement gap. All four dimensions (sociocultural, linguistic, academic, cognitive) must be addressed.
+- **Goldenberg (ELL Research Synthesis)**: Good mainstream instruction + explicit vocabulary + oral language + L1 support.
+- **Carlo (Cognate Awareness)**: Explicitly teach cognates to accelerate vocabulary growth for bilingual students.
+- **Wong Fillmore (Language Loss)**: Protect home language. English-only schooling causes L1 loss in 2-3 years.
+- **SIOP, GLAD, WIDA, CA ELD Framework**: Operational instructional frameworks used in K-3 classrooms nationwide.
+
+**For the complete biliteracy research guide, see: `BILITERACY.md`**
 
 ---
 
